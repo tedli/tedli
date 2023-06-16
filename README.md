@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](tedli.svg)
+<table border="0">
+ <tr>
+   <td><a href="tedli.svg"><img src="tedli.svg" alt="Metrics"></img></a></td>
+   <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=tedli" alt="Anurag's GitHub stats"/></a></td>
+ </tr>
+</table>
