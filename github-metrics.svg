@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1538" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1534" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,17 +33,17 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            210 issue comments
+                            211 issue comments
                         </div>
                     </section>
                     <section>
@@ -336,7 +336,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 1 day
+                            Current streak 2 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1331,6 +1331,11 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5 0,2.5 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5 1.7,3.5 z"/>
                             </g>
+                            <g transform="translate(-8.5, 10.25)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.75 0,1.75 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.75 1.7,2.75 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1344,6 +1349,167 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 187 commits in
+                                        <span class="repo">tedli/karmada</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#76acb6d</div>
+                                        <div class="message">Merge pull request #3647 from chaunceyjiang/same-name-with-cluster
+
+metrics-adapter: when different clusters have the same pod name, the annotations of different metrics have the same value</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cbf9ed</div>
+                                        <div class="message">feat: Release crds.tar.gz in release workflow
+
+Signed-off-by: jwcesign &lt;jiangwei115@huawei.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23f94a4</div>
+                                        <div class="message">When different clusters have the same pod name, the annotations of different metrics have the same value
+
+Signed-off-by: chaunceyjiang &lt;chaunceyjiang@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e588a43</div>
+                                        <div class="message">Merge pull request #3630 from jwcesign/update-search-doc
+
+doc: Add the limitations of search proxy</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#291ffdb</div>
+                                        <div class="message">Upgrade cluster-api to v1beta1 for v1alpha3/v1alpha4 deprecated
+
+Signed-off-by: zhangdiandian &lt;1635468471@qq.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4cf614</div>
+                                        <div class="message">Merge pull request #3651 from RainbowMango/pr_operator_api_owner
+
+Setup operator API owners</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af38e88</div>
+                                        <div class="message">Setup operator API owners
+
+Signed-off-by: RainbowMango &lt;qdurenhongcai@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8abb44</div>
+                                        <div class="message">Merge pull request #3639 from Poor12/add-index
+
+Add index for 1.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f0adfa</div>
+                                        <div class="message">Merge pull request #3645 from Poor12/fix-verify
+
+Fix verify-crdgen.sh do not verify operator</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18ad3ff</div>
+                                        <div class="message">fix verify
+
+Signed-off-by: Poor12 &lt;shentiecheng@huawei.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76f61db</div>
+                                        <div class="message">Merge pull request #3635 from xigang/rr_storage
+
+karmada-search: Add ResetFieldsStrategy for ResourceRegistryStorage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#154673a</div>
+                                        <div class="message">karmada-search: Add ResetFieldsStrategy for resource rest store
+
+Signed-off-by: xigang &lt;wangxigang2014@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e020038</div>
+                                        <div class="message">doc: Add the limitations of search proxy
+
+Signed-off-by: jwcesign &lt;jiangwei115@huawei.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#527efd1</div>
+                                        <div class="message">Merge pull request #3621 from realnumber666/add-ut/crb_status_controller
+
+Add ut for `pkg/controllers/applicationfailover` and `pkg/controllers/status`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42a791d</div>
+                                        <div class="message">add index for 1.6
+
+Signed-off-by: Poor12 &lt;shentiecheng@huawei.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7864e11</div>
+                                        <div class="message">Add UT for crb_application_failover_controller.go and rb_application_failover_controller.go
+
+Signed-off-by: rayywu &lt;rayywu@tencent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e97d295</div>
+                                        <div class="message">Add UT for pkg/controllers/applicationfailover/common.go
+
+Signed-off-by: rayywu &lt;rayywu@tencent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e0f186</div>
+                                        <div class="message">Add UT for pkg/controllers/status/rb_status_controller.go
+
+Signed-off-by: rayywu &lt;rayywu@tencent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ee9be3</div>
+                                        <div class="message">Add UT for pkg/controllers/status/crb_status_controller.go
+
+Signed-off-by: rayywu &lt;rayywu@tencent.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36668bb</div>
+                                        <div class="message">support disable cascading deletion of karmada
+
+Signed-off-by: calvin &lt;wen.chen@daocloud.io&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#3854 karmada-controller-manager: panic: runtime error: index out of range</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by tedli in <span class="repo">karmada-io/karmada</span></div>
+                                    <div class="comment">
+                                        Hi @RainbowMango  @liangyuanpeng ，
+My case as I mententioned, was caused by line
+                                        <code>164</code>
+                                        ,
+                                        <code>165</code>
+                                        https://github.com/karmada-io/karmada/blob/2526de856ebe8b4e57cdf5ad9e544604aa9f0e43/pkg/modeling/modeling.go#L162-L168
+And I didn't dive deep to find how to reproduce. I just havd a quick fix, that adding index check, to avoid panic.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1401,282 +1567,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 28 commits in
-                                        <span class="repo">tedli/pika</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">unstable</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8bf77bc</div>
-                                        <div class="message">fix address sanitize reported stack-use-after-scope (#1721)
-
-* fix address sanitize
-
-Signed-off-by: lizhen6 &lt;lizhen6@360.cn&gt;
-
-* run unit test in build_macos ci task
-
-Signed-off-by: lizhen6 &lt;lizhen6@360.cn&gt;
-
----------
-
-Signed-off-by: lizhen6 &lt;lizhen6@360.cn&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#514d7ab</div>
-                                        <div class="message">fix: some issues with the syntax specification of the master-slave synchronization test script (#1776)
-
-* Fixed some issues with the syntax specification of the master-slave synchronization test script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4158969</div>
-                                        <div class="message">fix master_run_id (#1778)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e8bf5b</div>
-                                        <div class="message">fix: Resolved the issue of skipping Deps dependent downloads under CI for Macos (#1773)
-
-* just test
-
-* fix Macos CI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ac7b7f</div>
-                                        <div class="message">exclude colon in tcl conf parse (#1768)
-
-Co-authored-by: J1senn &lt;J1senn@outlook.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45c3f78</div>
-                                        <div class="message">success push (#1769)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5883348</div>
-                                        <div class="message">docs: add metrics introduction in Pika project README (#1764)
-
-Add metrics introduction in Pika project README.
-
-Fixes: #1756
-
-Signed-off-by: yaoyinnan &lt;yaoyinnan@foxmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#236ae84</div>
-                                        <div class="message">fix: remove instantaneous_metric and collect network metrics every 5 seconds (#1757)
-
-Remove the instantaneous_metric thread and use DoTimingTask() to collect network traffic every 5 seconds.
-
-Fixes: #1756
-
-Signed-off-by: yaoyinnan &lt;yaoyinnan@foxmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce7d807</div>
-                                        <div class="message">improve: enrich command 'config get' returns (#1737)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1d45bf</div>
-                                        <div class="message">feat: support blpop/brpop (#1548)
-
-* working on BlpopCmd::Doinitial
-
-* working on : making the maps and new monitoring thread
-
-* added bLRPop_blocking_info_ in pika_server.cc
-
-* adding functions
-
-* adding functions02
-
-* temp save
-
-* data structure done
-
-* working
-
-* revised data structure
-
-* working on moving
-
-* working
-
-* next step is to add a timeout scan
-
-* added TimerTaskManager
-
-* modified TimerTaskManager(v2)
-
-* scan added
-
-* tiny fix
-
-* changed the task of unblocking conn from sync to async
-
-* removed some code for testing
-
-* change from partition to db
-
-* temp save for testing
-
-* handle binlog of blr/pop(when conn get served, write a binlog of lpop/rpop)
-
-* improved sanitizer options in CMakeLists
-
-* temp save
-
-* add unit test
-
-* modified cmakelists
-
-* temp save
-
-* improved code based on reviwer's opinion
-
-* renamed some variables
-
-* 1. added record lock in ServeAndUnblockConns(void* args)
-2. deleted testing code
-3. formated code using clang-format
-
-* added multi-db concurrency test
-
-* renamed a flag from kCmdFlagsMayDfferWrite to kCmdFlagsMayDfferWriteBinlog
-
-* 1. added record lock in ServeAndUnblockConns(void* args)
-2. deleted testing code
-3. formated code using clang-format
-4. removed kCmdFlagsMayDeferWriteBinlog and override dobinlog in blpop and brpop
-
-* removed unsed code
-
-* revised code based on opinion of reviewer
-
-* add the unit test to github workflow
-
-* revised unit test file
-
-* removed time counting
-
-* clear github action cache
-
-* revised based on reviwer's opinions
-
-* Modify to adapt to Mac.
-
-* Modify to adapt to Mac 2.
-
----------
-
-Co-authored-by: cjh &lt;1271435567@qq.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#299929a</div>
-                                        <div class="message">Added a graph of command time statistics to grafana (#1751)
-
-* Added a graph of command time statistics to grafana</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#294e702</div>
-                                        <div class="message">fix: tidy up missing metrics for exporter (#1753)
-
-tidy up missing metrics for exporter
-
-Fixes: #1744
-
-Signed-off-by: yaoyinnan &lt;yaoyinnan@foxmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4821991</div>
-                                        <div class="message">feat: support network IO traffic monitoring (#1733)
-
-* feat: support network IO traffic monitoring
-
-Support network IO traffic monitoring. Including IO bytes and kps of Redis requests and master-slave replication.
-
-Fixes: #1732
-
-Signed-off-by: yaoyinnan &lt;yaoyinnan@foxmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bac8102</div>
-                                        <div class="message">Resolve compilation and warning issues (#1740)
-
-
-* Resolve compilation and warning issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a37f45c</div>
-                                        <div class="message">feat: add estimate_pending_compaction_bytes metric to analyze fragmentation rate (#1736)
-
-Add estimate_pending_compaction_bytes metric to analyze fragmentation rate.
-
-Fixes: #1665
-
-Signed-off-by: yaoyinnan &lt;yaoyinnan@foxmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b69bae9</div>
-                                        <div class="message">Narrowing convension (#1730)
-
-* fix: fix narrowing convension
-
-* fix: make codes better
-
----------
-
-Co-authored-by: longfar &lt;longfar@ncy.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5223b2</div>
-                                        <div class="message">fix-pointer (#1729)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#355bb10</div>
-                                        <div class="message">pika_exporter adds the pika_master_link_status and pika_slave_priority indicators (#1726)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e096352</div>
-                                        <div class="message">The int32_t value in command Statistics time is replaced by uint64_t (#1723)
-
-* The int32_t value in command Statistics time is replaced by uint64_t</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9512694</div>
-                                        <div class="message">add_slot_migrate_state (#1700)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1783 修复Macos环境下Pika的Ctest报错</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Mixficsol in <span class="repo">OpenAtomFoundation/pika</span></div>
-                                    <div class="comment">
-                                        @Mixficsol 
-#1789 这里，我动了
-                                        <code>CMakeLists.txt</code>
-                                        ，要讨论的改动，可以在这个 pr 里 review 讨论。
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1700,7 +1590,7 @@ Co-authored-by: longfar &lt;longfar@ncy.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2023, 00:11:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Jul 2023, 00:10:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
