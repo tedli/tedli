@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2275" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2656" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.low{color:#e53935}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1332,6 +1332,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1344,6 +1351,360 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 29 commits in
+                                        <span class="repo">tedli/envoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8609798</div>
+                                        <div class="message">build(deps): bump actions/setup-java from 3.12.0 to 3.13.0 (#29744)
+
+Bumps [actions/setup-java](https://github.com/actions/setup-java) from 3.12.0 to 3.13.0.
+- [Release notes](https://github.com/actions/setup-java/releases)
+- [Commits](https://github.com/actions/setup-java/compare/cd89f46ac9d01407894225f350157564c9c7cee2...0ab4596768b603586c0de567f2430c30f5b0d2b0)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-java
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8e68389</div>
+                                        <div class="message">build(deps): bump cryptography from 41.0.3 to 41.0.4 in /.github/actions/pr_notifier (#29761)
+
+build(deps): bump cryptography in /.github/actions/pr_notifier
+
+Bumps [cryptography](https://github.com/pyca/cryptography) from 41.0.3 to 41.0.4.
+- [Changelog](https://github.com/pyca/cryptography/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/pyca/cryptography/compare/41.0.3...41.0.4)
+
+---
+updated-dependencies:
+- dependency-name: cryptography
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c78746b</div>
+                                        <div class="message">build(deps): bump google-cloud-storage from 2.10.0 to 2.11.0 in /tools/base (#29748)
+
+build(deps): bump google-cloud-storage in /tools/base
+
+Bumps [google-cloud-storage](https://github.com/googleapis/python-storage) from 2.10.0 to 2.11.0.
+- [Release notes](https://github.com/googleapis/python-storage/releases)
+- [Changelog](https://github.com/googleapis/python-storage/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/googleapis/python-storage/compare/v2.10.0...v2.11.0)
+
+---
+updated-dependencies:
+- dependency-name: google-cloud-storage
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfb3928</div>
+                                        <div class="message">config_validation: extend ssl manager lifetime beyond the dispatcher (#29736)
+
+Signed-off-by: Adi Suissa-Peleg &lt;adip@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d00ac21</div>
+                                        <div class="message">lua: add downstreamRemoteAddress() method (#29755)
+
+Signed-off-by: Kenneth Jenkins &lt;51246568+kenjenkins@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d3b3ae</div>
+                                        <div class="message">Add hot restart handoff integration test (#29707)
+
+* Add hot restart handoff integration test
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* No threads
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Format
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* async subprocesses, more format
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Remove yaml braces
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Comment helpers, setup/teardown
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Full requests more directly
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Remove unnecessary json parsing
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Private helper functions
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Regrammar first-person comments
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Format and de-we
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Path objects
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Unify permissible startup delay
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Remove unnecessary retrying
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* AsyncIterator
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Format
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Unused return
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Increase tolerance duration and comment about why
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* nocoverage
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* py_test is a jerk
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Trailing whitespace
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+* Select main as well as srcs
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;
+
+---------
+
+Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db1639f</div>
+                                        <div class="message">Ext_proc: restrict mode_override to header response only (#29441)
+
+* Ext_proc: restrict mode_override to header response only.
+
+---------
+
+Signed-off-by: Yanjun Xiang &lt;yanjunxiang@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7850edd</div>
+                                        <div class="message">Change rate limit to use new AsyncClientManagerAPI (#29705)
+
+Signed-off-by: AlanDiaz &lt;diazalan@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#287a42f</div>
+                                        <div class="message">original_dst listener filter: implement internal listener support (#29655)
+
+Adds support for recovery of the local and the remote addresses in the internal connections using the original_dst listener filter. This supports two use cases:
+
+- cluster endpoint tunneling: an endpoint host metadata is passed through to the internal listener to set the IP destination, example:
+name: internal_outbound
+load_assignment:
+  cluster_name: internal_outbound
+  endpoints:
+  - lb_endpoints:
+    - endpoint:
+        address:
+          envoy_internal_address:
+            server_listener_name: internal_outbound
+      metadata:
+        filter_metadata:
+          envoy.filters.listener.original_dst:
+            local: 127.0.0.1:8080 # Actual network destination
+transport_socket:
+  name: envoy.transport_sockets.internal_upstream
+  typed_config:
+    "@type": type.googleapis.com/envoy.extensions.transport_sockets.internal_upstream.v3.InternalUpstreamTransport
+    passthrough_metadata:
+    - name: envoy.filters.listener.original_dst
+      kind: { host: {}}
+    transport_socket:
+      name: envoy.transport_sockets.raw_buffer
+      typed_config:
+        "@type": type.googleapis.com/envoy.extensions.transport_sockets.raw_buffer.v3.RawBuffer
+
+- de-tunneling, a CONNECT stream saves the host as the destination address, which is then passed through to the internal listener upstream. This requires a custom filter that sets a filter state object and marks it as shared with the upstream connection. Example implementation: https://github.com/istio/proxy/blob/master/source/extensions/filters/http/connect_authority/filter.cc
+
+Risk Level: low, new feature
+Testing: added
+Docs Changes: yes
+Release Notes: yes
+
+Issue: #29652
+issue: #29681
+
+Signed-off-by: Kuat Yessenov &lt;kuat@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3890fbc</div>
+                                        <div class="message">clang/tidy: Fixes (`/test`) (#29677)
+
+Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1970b33</div>
+                                        <div class="message">mobile/docs: Publish outside of build container (#29752)
+
+Signed-off-by: phlax &lt;phlax@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfdc99a</div>
+                                        <div class="message">router: switch to use new QueryParametersMulti type (#29385)
+
+Signed-off-by: Neal Turett &lt;neal.turett@datadoghq.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#202ae13</div>
+                                        <div class="message">golang filter: update cached length (#29701)
+
+Signed-off-by: spacewander &lt;spacewanderlzx@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd72723</div>
+                                        <div class="message">Sets an oghttp2 config option to allow different "host" and ":authority" values (#29712)
+
+
+Signed-off-by: Biren Roy &lt;birenroy@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd25530</div>
+                                        <div class="message">mobile/ci: Further fix for docs publishing (#29702)
+
+Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83d24b0</div>
+                                        <div class="message">build(deps): bump node from 20.6-bullseye-slim to 20.7-bullseye-slim in /examples/shared/node (#29729)
+
+build(deps): bump node in /examples/shared/node
+
+Bumps node from 20.6-bullseye-slim to 20.7-bullseye-slim.
+
+---
+updated-dependencies:
+- dependency-name: node
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24d8e49</div>
+                                        <div class="message">build(deps): bump debian from `3bc5e94` to `f794067` in /examples/shared/golang (#29724)
+
+build(deps): bump debian in /examples/shared/golang
+
+Bumps debian from `3bc5e94` to `f794067`.
+
+---
+updated-dependencies:
+- dependency-name: debian
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c32a91c</div>
+                                        <div class="message">build(deps): bump debian from `3bc5e94` to `f794067` in /examples/shared/websocket (#29728)
+
+build(deps): bump debian in /examples/shared/websocket
+
+Bumps debian from `3bc5e94` to `f794067`.
+
+---
+updated-dependencies:
+- dependency-name: debian
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7271c08</div>
+                                        <div class="message">build(deps): bump cryptography from 41.0.3 to 41.0.4 in /tools/base (#29727)
+
+Bumps [cryptography](https://github.com/pyca/cryptography) from 41.0.3 to 41.0.4.
+- [Changelog](https://github.com/pyca/cryptography/blob/main/CHANGELOG.rst)
+- [Commits](https://github.com/pyca/cryptography/compare/41.0.3...41.0.4)
+
+---
+updated-dependencies:
+- dependency-name: cryptography
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a116d19</div>
+                                        <div class="message">build/image: Bump to include skopeo (#29732)
+
+Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1779,7 +2140,7 @@ Co-authored-by: wuxianrong &lt;wuxianrong@360.cn&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.1697467488021882 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.25462012320330984 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2134,7 +2495,7 @@ Co-authored-by: wuxianrong &lt;wuxianrong@360.cn&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.23m out of 51.4m repositories</span>
+                                    <span class="gh">ranked 1.23m out of 51.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 17 stars</div>
                             </div>
@@ -2180,7 +2541,7 @@ Co-authored-by: wuxianrong &lt;wuxianrong@360.cn&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.17m out of 51.4m repositories</span>
+                                    <span class="gh">ranked 3.19m out of 51.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2273,7 +2634,7 @@ Co-authored-by: wuxianrong &lt;wuxianrong@360.cn&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2023, 00:10:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2023, 00:11:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
