@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2356" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1975" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.low{color:#e53935}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.namespace{color:#b44418}.token.string{color:#2777aa}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.low{color:#e53935}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.string{color:#2777aa}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1348,6 +1348,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1600,286 +1605,6 @@ Signed-off-by: Boteng Yao &lt;boteng@google.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 236 commits in
-                                        <span class="repo">tedli/envoy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f15ec82</div>
-                                        <div class="message">[balsa] Disallow CR not followed by LF in header values. (#34829)
-
-This makes the behavior of BalsaParser consistent with that of http-parser.
-
-Signed-off-by: Bence Béky &lt;bnc@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#43d6b1e</div>
-                                        <div class="message">Make envoy user part of the tty group instead of chown stderr/stdout (#34830)
-
-Signed-off-by: Razvan Dobre &lt;dobre@adobe.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c16a718</div>
-                                        <div class="message">[mobile]make socket receive buffer size configurable (#34875)
-
-make socket receive buffer size configurable
-
-Signed-off-by: Renjie Tang &lt;renjietang@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b32f876</div>
-                                        <div class="message">io_handle: cache envoy address instances for recvmsg and recvmmsg (#34649)
-
-Maintain a LRU cache of Address::Instance objects in IoSocketHandleImpl to keep track of source and destination addresses received in recvmsg and recvmmsg. This cache is added mainly used for UDP read. This is an alternative to #33917 to address the issue that each recvmsg/recvmmsg will create a new instance of the source/destination addresses (which does stringification upon instantiation) even though they have been received before.
-
-The cache can be initialized during IoSocketHandleImpl construction based on a new param max_addresses_cache_size_ in SocketCreationOptions. This change only enables EnvoyQuicClientConnection to use a SocketCreationOptions with size 4 to create the underlying IoSocketHandleImpl. There is no change to the server side recvmsg and recvmmsg calls as the significant CPU cost on server side hasn't been observed.
-
-There is no cache support in non-IoSocketHandleImpl-based implementations.
-
-Signed-off-by: Dan Zhang &lt;danzh@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#128a99a</div>
-                                        <div class="message">Refactor MemoryTest out of Stats namespace (#34831)
-
-* Refactor MemoryTest out of Stats namespace
-
----------
-
-Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1decd3c</div>
-                                        <div class="message">Add buffer size stats to gprc_json_transcoder_filter (#34612)
-
-* Add buffer size stats to gprc_json_transcoder_filter
-
----------
-
-Signed-off-by: Raven Black &lt;ravenblack@dropbox.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9d892e</div>
-                                        <div class="message">uri_template: verbose errors (#34709)
-
-Commit Message: uri_template: verbose errors
-Additional Description:
-Adds verbose error messages explaining why a config is invalid.
-
-Risk Level: low
-Testing: Updated tests.
-Docs Changes: N/A
-Release Notes: N/A
-Platform Specific Features: N/A
-
-Signed-off-by: Adi Suissa-Peleg &lt;adip@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef4a024</div>
-                                        <div class="message">admin_fine_logger: replace log level int with nice string (#34816)
-
-Before:
-```
-active loggers:
-  source/server/admin/logs_handler.cc: 3
-  source/common/common/logger.cc: 3
-```
-
-After:
-```
-active loggers:
-  source/server/admin/logs_handler.cc: warn
-  source/common/common/logger.cc: warn
-```
-
-admin test:
-
-&lt;img width="724" alt="Screenshot 2024-06-20 at 8 58 37 AM" src="https://github.com/envoyproxy/envoy/assets/50897472/e8864b60-7424-4f7a-b6b7-fe2bf8c6a2d2"&gt;
-
-Signed-off-by: Boteng Yao &lt;boteng@google.com&gt;
-
-* avoid fmt::string
-
-Signed-off-by: Boteng Yao &lt;boteng@google.com&gt;
-
----------
-
-Signed-off-by: Boteng Yao &lt;boteng@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e187bc7</div>
-                                        <div class="message">fine_grain_logger: make sure fine-grain-logger map registration in macros (#34815)
-
-Signed-off-by: Boteng Yao &lt;boteng@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07aef44</div>
-                                        <div class="message">grpc: Refactor the gRPC integration test  (#34869)
-
-
----------
-
-Signed-off-by: tyxia &lt;tyxia@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3456d51</div>
-                                        <div class="message">Synchronise expiry of id token cookie with JWT exp claim (#34117)
-
-* Synchronise expiry of id token cookie with JWT exp claim
-
-The expiry of the id token cookie should match the exp claim in the id
-token JWT, not the expiry of the access token. Some identity providers
-(definitely Microsoft Entra ID, probably others) issue id tokens with
-different expiry than the access tokens.
-
-This change is largely based on the work done in #32278 which supports expiry
-of the refresh token based on the exp claim of the refresh token if it
-is a JWT.
-
-Closes #32485.
-
-Signed-off-by: Michael Sauter &lt;mail@michaelsauter.net&gt;
-
-* Fix error in filter.cc
-
-Signed-off-by: Michael Sauter &lt;mail@michaelsauter.net&gt;
-
-* Use fmt::runtime
-
-Signed-off-by: Michael Sauter &lt;mail@michaelsauter.net&gt;
-
-* Apply style nits
-
-Signed-off-by: Michael Sauter &lt;mail@michaelsauter.net&gt;
-
----------
-
-Signed-off-by: Michael Sauter &lt;mail@michaelsauter.net&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bdfd2ac</div>
-                                        <div class="message">Update QUICHE from 134dcbea6 to cf8d05ab4 (#34848)
-
-Update QUICHE from 134dcbea6 to cf8d05ab4
-https://github.com/google/quiche/compare/134dcbea6..cf8d05ab4
-
-```
-$ git log 134dcbea6..cf8d05ab4 --date=short --no-merges --format="%ad %al %s"
-
-2024-06-21 birenroy Demotes an ERROR log message to VLOG(1).
-2024-06-20 rch Add a new HttpValidationPolicy option `disallow_invalid_target_uris` which will reject invalid target URIs in HTTP/1 requests. This includes: * asterisk-form ("*") for methods other than OPTIONS * CONNECT request without a valid port, or without balanced IPv6 brackets * Otherwise, target URIs which do not start with '/' or contain '://'
-2024-06-20 renjietang Update QuicStream::OnConnectionClosed() to take in full connection close frame so that error details can be extracted.
-2024-06-20 dschinazi Update to draft-ietf-httpbis-unprompted-auth-07
-2024-06-20 bnc Fix disallow_lone_cr_in_chunk_extension behavior.
-```
-
-Signed-off-by: Biren Roy &lt;birenroy@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#158817e</div>
-                                        <div class="message">fuzz: fix ext_authz network fuzzer crash (#34714)
-
-Signed-off-by: antoniovleonti &lt;leonti@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#243787f</div>
-                                        <div class="message">grid: changing to defered deletion (#34832)
-
-changing the wrapper callbacks and async callbacks in the grid to do deferred deletion.
-
-currently we infer immediate response / async newStream from return codes.
-This gets more complicated when we add in happy eyeballs, so instead we want to determine if we should return a cancelable handle based on if the caller has been informed of success or failure. This requires the objects to not be deleted under the stack of newStream hence the migration to defered delete.
-
-Also doing a follow-up from the prior PR and creating connection pools explicitly.
-
-Risk Level: high (object lifetime changes)
-Testing: existing tests
-Docs Changes: n/a
-Release Notes: n/a
-
-Signed-off-by: Alyssa Wilk &lt;alyssar@chromium.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#746cfff</div>
-                                        <div class="message">admin_logging_handler: add more usage info for /logging handler (#34835)
-
-Signed-off-by: Boteng Yao &lt;boteng@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4c423a</div>
-                                        <div class="message">connection_limit: fix connection close without reason (#34788)
-
-* connection_limit: fix connection close without reason
-
-
-Signed-off-by: Youngchul Bang &lt;youngchul@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d40f085</div>
-                                        <div class="message">docs: #34499 Alternatives to docker, root filesystem permissions (#34532)
-
-Signed-off-by: enspritz &lt;65633607+enspritz@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2a20a0</div>
-                                        <div class="message">api: add total_{active,new,fail}_connections to UpstreamLocalityStats (#34385)
-
-* api: Add total_{active,new,error}_connections to UpstreamLocalityStats
-
-They are marked with `[#not-implemented-hide:]` and `work_in_progress`.
-Implementation will be added later.
-
-Signed-off-by: Aleksander Mistewicz &lt;amistewicz@google.com&gt;
-
-* Update api/envoy/config/endpoint/v3/load_report.proto
-
-Co-authored-by: htuch &lt;htuch@users.noreply.github.com&gt;
-Signed-off-by: AwesomePatrol &lt;AwesomePatrol@users.noreply.github.com&gt;
-
-* Rename total_error_connections to total_fail_connections
-
-Signed-off-by: Aleksander Mistewicz &lt;amistewicz@google.com&gt;
-
-* Add mention of metrics to docstring
-
-Signed-off-by: Aleksander Mistewicz &lt;amistewicz@google.com&gt;
-
-* Mention Envoy when pointing out relation to metrics
-
-Put metric names in `` (as in other parts of the file)
-
-Signed-off-by: Aleksander Mistewicz &lt;amistewicz@google.com&gt;
-
----------
-
-Signed-off-by: Aleksander Mistewicz &lt;amistewicz@google.com&gt;
-Signed-off-by: AwesomePatrol &lt;AwesomePatrol@users.noreply.github.com&gt;
-Co-authored-by: htuch &lt;htuch@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a63ccd</div>
-                                        <div class="message">docs: add example with ws route (#34855)
-
-Signed-off-by: zvlb &lt;vl.zemtsov@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23048ff</div>
-                                        <div class="message">format/fix: YAML length (#34860)
-
-Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1941,7 +1666,7 @@ Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.848733744010943 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.933607118412063 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2123,7 +1848,7 @@ Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.30730730730731 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.61761761761762 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2146,9 +1871,9 @@ Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 230k out of 212m repositories</span>
+                                    <span class="gh">ranked 228k out of 194m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 177 stars</div>
+                                <div class="text">Maintaining a repository with 179 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2342,7 +2067,7 @@ Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.55m out of 212m repositories</span>
+                                    <span class="gh">ranked 3.55m out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2435,7 +2160,7 @@ Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2024, 00:13:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2024, 00:13:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
