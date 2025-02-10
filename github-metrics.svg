@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1846" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2125" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.leetcode{align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.low{color:#e53935}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.leetcode .all.gauge .gauge-arc{color:#ffa116}.leetcode{align-items:flex-start}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.namespace{color:#b44418}.token.number,.token.regex,.token.string{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -40,9 +40,9 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -320,12 +320,6 @@
                             </svg>
                             Commits streaks
                         </h3>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
-                            </svg>
-                            Current streak 2 days
-                        </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
@@ -1330,6 +1324,13 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.428571428571429 1.7,5.428571428571429 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1342,6 +1343,513 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">tedli/envoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c32e210</div>
+                                        <div class="message">LocalRateLimit(HTTP): Add dynamic token bucket support (#36623)
+
+&lt;!--
+!!!ATTENTION!!!
+
+If you are fixing *any* crash or *any* potential security issue, *do
+not*
+open a pull request in this repo. Please report the issue via emailing
+envoy-security@googlegroups.com where the issue will be triaged
+appropriately.
+Thank you in advance for helping to keep Envoy secure.
+
+!!!ATTENTION!!!
+
+For an explanation of how to fill out the fields, please see the
+relevant section
+in
+[PULL_REQUESTS.md](https://github.com/envoyproxy/envoy/blob/main/PULL_REQUESTS.md)
+--&gt;
+
+Commit Message: LocalRateLimit(HTTP): Add dynamic token bucket support
+Additional Description:
+fixes: https://github.com/envoyproxy/envoy/issues/23351 and
+https://github.com/envoyproxy/envoy/issues/19895
+
+User configures
+[descriptors](https://www.envoyproxy.io/docs/envoy/latest/api-v3/extensions/common/ratelimit/v3/ratelimit.proto#envoy-v3-api-msg-extensions-common-ratelimit-v3-localratelimitdescriptor)
+in the [http local rate limit
+filter](https://www.envoyproxy.io/docs/envoy/latest/api-v3/extensions/filters/http/local_ratelimit/v3/local_rate_limit.proto).
+These descriptors are the "target" to match using the source descriptors
+built using the traffic(http requests). Only matched traffic will be
+rate limited. When request comes, at runtime, based on
+[rate_limit](https://www.envoyproxy.io/docs/envoy/latest/api-v3/config/route/v3/route_components.proto#envoy-v3-api-msg-config-route-v3-ratelimit)
+configuration, descriptors are generated where `values` are picked from
+the request as directed by the rate_limit configuration. These generated
+descriptors are matched with "target"(user configured) descriptors.
+Generated descriptors are very flexible already in the sense that
+"values" from the request can be extracted using number of ways such as
+dynamic metadata, matcher api, computed reg expressions etc etc, but in
+"target"(user configured) descriptors are very rigid and it is expected
+that user statically configures the "values" in the descriptor.
+This PR is adding flexibility by allowing blank "values" in the user
+configured descriptors. Blank values will be treated as wildcard.
+Suppose descriptor entry key is `client-id` and value is left blank by
+the user, local rate limit filter will create a descriptor dynamically
+for each unique value of header `client-id`. That means `client1`,
+`client2` and so on will have dedicated descriptors and token buckets.
+
+To keep a resource consumption under limit, LRU cache is maintained for
+dynamic descriptors with a default size of 20, which is configurable.
+
+
+Docs Changes: TODO
+Release Notes: TODO
+
+---------
+
+Signed-off-by: Vikas Choudhary (vikasc) &lt;choudharyvikas16@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90e9932</div>
+                                        <div class="message">upstream_proxy_protocol: Introduce custom TLV support (#37591)
+
+&lt;!--
+!!!ATTENTION!!!
+
+If you are fixing *any* crash or *any* potential security issue, *do
+not*
+open a pull request in this repo. Please report the issue via emailing
+envoy-security@googlegroups.com where the issue will be triaged
+appropriately.
+Thank you in advance for helping to keep Envoy secure.
+
+!!!ATTENTION!!!
+
+For an explanation of how to fill out the fields, please see the
+relevant section
+in
+[PULL_REQUESTS.md](https://github.com/envoyproxy/envoy/blob/main/PULL_REQUESTS.md)
+--&gt;
+
+Commit Message:
+
+This commit introduces support for injecting custom TLVs into the Proxy
+Protocol v2 (PP2) header for upstream transport sockets. This enables
+xDS control planes to build upstream PP2 headers with greater
+flexibility. Previously, upstream PP2 headers only passed through TLVs
+from downstream connections when using the Proxy Protocol listener,
+limiting customization.
+
+With this change, users can define custom TLVs by configuring the
+`custom_tlvs` field in the upstream_proxy_protocol transport socket
+config, or specifying host metadata in a well-known namespace in order
+to provide dynamic and more granular control over PP2 header content.
+For example:
+
+```yaml
+      transport_socket:
+        name: envoy.transport_sockets.upstream_proxy_protocol
+        typed_config:
+          "@type": type.googleapis.com/envoy.extensions.transport_sockets.proxy_protocol.v3.ProxyProtocolUpstreamTransport
+          config:
+            version: V2
+            added_tlvs:
+              - type: 150
+                value: Zm9v
+              - type: 151
+                value: YmFy
+```
+
+And
+
+```yaml
+clusters:
+      - name: httpbin
+        load_assignment:
+          ...
+          endpoints:
+          - lbEndpoints:
+            - metadata:
+                filter_metadata:
+                  envoy.transport_socket_match:
+                    outbound-proxy: true
+                typed_filter_metadata:
+                  envoy.transport_sockets.proxy_protocol:
+                    "@type": type.googleapis.com/envoy.config.core.v3.ProxyProtocolConfig
+                    added_tlvs:
+                      - type: 0xD7
+                        value: b3Zy
+                      - type: 0xD8
+                        value: bmV3
+               ...
+
+```
+
+By decoupling upstream PP2 customization from downstream listener
+config, this unlocks more flexible use cases for Proxy Protocol in
+upstream paths.
+
+Additional Description: N/A
+Risk Level: Low
+Testing: Unit &amp; integration
+Docs Changes: Include in the protobuf docs
+Release Notes: Included in the changelog as a new feature
+Platform Specific Features: N/A
+[Optional Runtime guard:]
+[Optional Fixes #Issue] https://github.com/envoyproxy/envoy/issues/18520
+[Optional Fixes commit #PR or SHA]
+[Optional Deprecated:]
+[Optional [API
+Considerations](https://github.com/envoyproxy/envoy/blob/main/api/review_checklist.md):]
+
+---------
+
+Signed-off-by: timflannagan &lt;timflannagan@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e6898f</div>
+                                        <div class="message">dynamic_modules: add mut to &amp;FilterConfig on filter creation (#38349)
+
+Commit Message: dynamic_modules: add mut to &amp;FilterConfig on filter
+creation
+Additional Description:
+
+This adds `mut` keywrod to &amp;HttpFilterConfig on new_http_filter method.
+Without this, for example, we cannot share a cache across multiple http
+filters on a central place.
+
+Risk Level: low
+Testing: existing ones
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+---------
+
+Signed-off-by: Takeshi Yoneda &lt;t.y.mathetake@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79f28bf</div>
+                                        <div class="message">Add tests for ext_proc stream resets (#38346)
+
+These tests document current broken behavior of ext_proc always resetting gRPC side streams.
+
+Risk Level: Low
+Testing: Unit Tests
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1706a64</div>
+                                        <div class="message">Fully qualify namespace (#38335)
+
+It confuses an internal toolchain otherwise.
+
+Risk Level: Low
+Testing: Unit tests
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc3b061</div>
+                                        <div class="message">string-matcher: reduce per-matcher memory (#37782)
+
+This is similar to #37324 but doesn't use virtual functions (uses
+std::variant instead).
+These are the goals for this new StringMatcherImpl class:
+
+1. improve encapsulation and use polymorphism that will make the code a
+bit more readable.
+2. reduce the amount of memory used by the StringMatcher (e.g., an
+object of type ExactStringMatcher doesn't need to also hold a pointer to
+a regex object).
+3. reduce the amount of memory that is essentially repeated (removing
+the kept protobuf matcher object that holds redundant information).
+4. replace the uses of the
+[matcher()](https://github.com/envoyproxy/envoy/blob/9aad3320cf58a19cb4bbbbbaa357dbedf8715900/source/common/common/matchers.h#L157)
+that are needed to find the contents of the string-matcher by
+introducing the stringRepresentation() method.
+
+A [simple
+test](https://github.com/envoyproxy/envoy/pull/37782#issuecomment-2616585638)
+showed that for 1000 perfix (non-regex) matchers, the new approach
+reduced the amount of memory from 570368 to 530176 bytes (~40KiB).
+For a case of 1000 regex-matchers with a varying length of prefix
+(1-1001), the new approach reduced the amount of memory from 15671616 to
+15021632 bytes (~635KiB).
+
+Compared to #37324, this version enjoys the inlining compiler
+optimizations that can be made when virtual tables aren't used. The
+downside is the use of std::variant, which may require a bit more
+memory, and results in a more coupled code for the string matchers, but
+IMHO it improves upon the current implementation.
+
+Risk Level: low - not being used at the moment (but future PRs will).
+Testing: duplicated the tests needed
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+
+---------
+
+Signed-off-by: Adi Suissa-Peleg &lt;adip@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#725a25b</div>
+                                        <div class="message">ext_proc: least surprise behavior for DEFAULT in mode_override. (#38254)
+
+The mode_override feature has a very surprising behavior, in which unset
+fields in ProcessingMode, revert behavior back to the default. For
+example, it is the default behavior that resposne headers are sent, but
+if the filter is configured not to send response headers in
+processing_mode, and a mode_override is sent to explicitly send request
+body, this then inadvertently triggers the sending of response headers
+as well, as the mode has been overriden back to the "default". We have
+seen ext_proc users of mode_override being affected by these confusing
+semantics.
+
+It seems far more sensible that a mode_override only affects the
+processing mode features explicitly set in the mode_override message.
+Technically this could be a breaking wire change, but it seems unlikely
+that anyone is relying on the default override, as they would most
+likely just set response headers to SEND instead of DEFAULT if that was
+the intended behavior.
+
+This is a protocol change proposal, which will be augmented with
+implementation if there is agreement on this approach.
+
+Risk level: Medium
+Testing: Unit test
+Docs Changes: API docs updated.
+Release Notes: Clarification added.
+
+---------
+
+Signed-off-by: Harvey Tuch &lt;htuch@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32f2793</div>
+                                        <div class="message">aws: Integrate aws cluster manager capability (#38271)
+
+Commit Message: aws: Integrate aws cluster manager capability
+Additional Description:
+
+Part 2 of 3 patches, to address customer reported bugs in the aws
+request signing extension when using the route discovery service.
+This change connects extension to the aws cluster manager, then removes
+cluster management functionality from MetadataCredentialsProviderBase.
+Statistics related to CDS removal are deprecated, as we now use
+avoid_cds_removal flag in clusterManager().addOrUpdateCluster(). These
+statistics were only used for test cases.
+
+Part 1 - https://github.com/envoyproxy/envoy/pull/38205
+
+Risk Level: Low
+Testing: Unit
+Docs Changes: remove reference to clusters_removed_by_cds statistics
+
+Release Notes:
+Platform Specific Features:
+[Optional Runtime guard:]
+[Optional Fixes #Issue]
+[Optional Fixes commit #PR or SHA]
+[Optional Deprecated:]
+[Optional [API
+Considerations](https://github.com/envoyproxy/envoy/blob/main/api/review_checklist.md):]
+
+---------
+
+Signed-off-by: Nigel Brittain &lt;nbaws@amazon.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#edafb1b</div>
+                                        <div class="message">cds: removing exceptions (#38304)
+
+Risk Level: low
+Testing: updated tests
+Docs Changes: n/a
+Release Notes: n/a
+https://github.com/envoyproxy/envoy-mobile/issues/176
+
+Signed-off-by: Alyssa Wilk &lt;alyssar@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#281772b</div>
+                                        <div class="message">Update QUICHE from 59fe4b0f4 to 5a433bd7d (#38337)
+
+https://github.com/google/quiche/compare/59fe4b0f4..5a433bd7d
+
+```
+$ git log 59fe4b0f4..5a433bd7d --date=short --no-merges --format="%ad %al %s"
+
+2025-02-06 birenroy Adds an oghttp2 option to disable Huffman compression of header field values.
+2025-02-06 quiche-dev No public description
+2025-02-06 birenroy Adds a `DISABLE_HUFFMAN` CompressionOption to SpdyFramer.
+2025-02-06 haoyuewang Refactor QuicTimeWaitList to make it easier to use a single connection ID map.
+2025-02-06 quiche-dev Count how often stricter base64 parsing would fail in Quiche's structured headers
+2025-02-05 birenroy Replaces `SpdyFramer::compression_enabled()` with `SpdyFramer::compression_option()`.
+2025-02-05 wub In `quic::ProofSourceHandle::SelectCertificate`, change the `client_hello` argument from the raw client hello bytes to a `SSL_CLIENT_HELLO` pointer.
+2025-02-05 birenroy Splits HpackEncoder::enable_compression_ into two bool members that are always toggled together.
+2025-02-05 birenroy Removes one parameter from `HpackEncoder::EmitNonIndexedLiteral()`.
+```
+
+Signed-off-by: Biren Roy &lt;birenroy@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80c1ac2</div>
+                                        <div class="message">Fix bug in UDP CMSG plumbing (#38332)
+
+Commit Message: Fix bug in UDP CMSG plumbing
+Additional Description: Follow-up to #35382.
+
+The original RawSlice that we wrote the csmg to points to stack memory
+that is immediately freed, so we use a different structure that properly
+moves the memory buffer up to the QuicReceivedPacket. The bug is
+reproduced in quic_http_integration_test with the change to
+TestQuicListenerFilter (i.e., if you remove the other changes in this
+PR) under ASAN builds.
+
+Risk Level: Low
+Testing: Reproduced in integration test (quic_http_integration_test)
+Docs Changes: N/A
+Release Notes: None.
+
+---------
+
+Signed-off-by: Paul Sohn &lt;paulsohn@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f2d0c2</div>
+                                        <div class="message">docs: adds a release note about dynamic_modules (#38334)
+
+docs: adds a release note about dynamic_modules
+
+This is a follow up on #38295 
+
+Signed-off-by: Takeshi Yoneda &lt;t.y.mathetake@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42b2664</div>
+                                        <div class="message">Make aws_lambda exception free (#38322)
+
+Commit Message: Make aws_lambda exception free
+Additional Description:
+Risk Level: low
+Testing: existing ones
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+Signed-off-by: Takeshi Yoneda &lt;t.y.mathetake@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78efd97</div>
+                                        <div class="message">Adding Envoy Gateway references to Envoy Proxy docs site (#36766)
+
+Adding Envoy Gateway relevant documentation.
+Purpose to make it easier to learn how to spin
+up and manage Envoy Proxy on Kubernetes using Envoy Gateway,
+Adding Envoy Gateway related docs and removing vendor
+references from docs on control plane - ensuring link to community page
+to learn more about vendor provided control planes.
+
+Signed-off-by: Erica Hughberg &lt;erica.sundberg.90@gmail.com&gt;
+Co-authored-by: phlax &lt;phlax@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4da0d4b</div>
+                                        <div class="message">config discovery: removing exceptions (#38305)
+
+Risk Level: low
+Testing: updated tests
+Docs Changes: n/a
+Release Notes: n/a
+https://github.com/envoyproxy/envoy-mobile/issues/176
+
+Signed-off-by: Alyssa Wilk &lt;alyssar@chromium.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba8cd99</div>
+                                        <div class="message">Remove matcher input type allowlist from Composite filter (#37742)
+
+This PR removes the type requirements that restrict the allowed input
+matchers on the Composite filter. Having these requirements checked in
+OSS code prevents users of Envoy from extending and customizing this
+extension point.
+
+Risk Level: low
+Testing: Via running existing tests
+Fixes #37710
+
+---------
+
+Signed-off-by: Frank &lt;ffort@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9ee7fa</div>
+                                        <div class="message">docs: remove all usages of "JWT token" in text (#38328)
+
+JWT stands for *JSON Web Token*. Code comments and documentation both
+contain many "JWT token" which is double.
+
+This pull request replaces those pieces of text with JWT (or sometimes
+plural).
+
+This pull request should have no code changes.
+
+Signed-off-by: hidde.wieringa &lt;hidde.wieringa@nedap.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3435d69</div>
+                                        <div class="message">Revert "feature: inbound only graceful draining (#37873)" (#38329)
+
+Fix #38330
+
+Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe58ab1</div>
+                                        <div class="message">Enable dynamic modules &amp; high level doc (#38295)
+
+Commit Message: Enable dynamic modules &amp; Add high level doc
+Additional Description:
+
+This adds a high level documentation of dynamic_modules feature
+that has been developed over the last few months and has finally
+become usable for users. 
+
+closes #2053 
+closes #24230
+closes #32502
+
+Risk Level: low
+Testing: existing ones
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+---------
+
+Signed-off-by: Takeshi Yoneda &lt;t.y.mathetake@gmail.com&gt;
+Co-authored-by: phlax &lt;phlax@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1422,26 +1930,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">tedli/leetcode</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f9e1406</div>
-                                        <div class="message">build</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1503,7 +1991,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.612594113620816 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.697467488021886 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1956,7 +2444,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Feb 2025, 00:12:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2025, 00:15:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
