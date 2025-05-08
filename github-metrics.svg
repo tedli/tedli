@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="847" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1207" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,8 +30,8 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1340,6 +1340,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1353,11 +1358,399 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
-                            </svg>
-                            No recent activity
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 278 commits in
+                                        <span class="repo">tedli/envoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#19fa1b5</div>
+                                        <div class="message">[ext_proc] Invoke response processors before continuing the filter chain. (#38750)
+
+Commit Message:
+Additional Description:
+Risk Level: Low
+Testing: Added tests.
+Docs Changes: N/A
+Release Notes: Added release note.
+Platform Specific Features: N/A
+[Optional Runtime guard:] N/A (new extension)
+
+---------
+
+Signed-off-by: pcrao &lt;pcrao@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5182bc</div>
+                                        <div class="message">use PercentEncoding library instead of incomplete ad-hoc mapping (#38788)
+
+I'm pretty sure this is a no-op since pem certificates are base-64
+encoded. But there's no reason to use absl::StrReplaceAll here with an
+incomplete, ad-hoc url-encoding character set instead of the optimized,
+complete percent encoding library function.
+
+AFAICT there is nothing query parameter specific in the implementation
+of urlEncodeQueryParameter. Query parameters are url-encoded the same
+way any other data would be url-encoded.
+
+Signed-off-by: antoniovleonti &lt;leonti@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36071b5</div>
+                                        <div class="message">formatter: added PATH support (#38761)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad40097</div>
+                                        <div class="message">http: configurable ignore of HTTP/1.1 upgrades (#37642)
+
+Fixes https://github.com/envoyproxy/envoy/issues/36305
+
+Add configuration to ignore HTTP/1.1 Upgrade headers . See
+https://datatracker.ietf.org/doc/html/rfc7230#section-6.7:
+
+Signed-off-by: Tom Edge &lt;tom.edge@autotrader.co.uk&gt;
+Signed-off-by: Greg Greenway &lt;ggreenway@apple.com&gt;
+Co-authored-by: Greg Greenway &lt;ggreenway@apple.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cce9fa8</div>
+                                        <div class="message">Api: add network external processor service and filter api (#38717)
+
+Added a network ext_proc api and service contract that will wrap the L4
+bytes through a gRPC stream.
+#38721
+Commit Message:
+Additional Description:
+Risk Level: low
+Testing:
+Docs Changes:
+Release Notes:
+
+---------
+
+Signed-off-by: Boteng Yao &lt;boteng@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5fe7b3</div>
+                                        <div class="message">network: inherit connection log id for filter manager (#38780)
+
+Commit Message:
+Additional Description:
+Risk Level: log
+Testing:
+
+---------
+
+Signed-off-by: Boteng Yao &lt;boteng@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59a14b1</div>
+                                        <div class="message">formatter: make the CEL and METADATA as built in formatter (#38740)
+
+Commit Message: formatter: make the CEL and METADATA as built in
+formatter
+Additional Description:
+
+This make the CEL and METADATA as built in formatter and could be used
+everywhere. Now, we needn't to configure it. After this PR, it's
+possible to use CEL at the header mutation which would be helpful.
+
+Risk Level: low.
+Testing: unit/integration.
+Docs Changes: added.
+Release Notes: added.
+Platform Specific Features: n/a.
+
+---------
+
+Signed-off-by: wangbaiping(wbpcode) &lt;wbphub@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f31c99d</div>
+                                        <div class="message">aws: refactoring and code cleanup (#38667)
+
+Substantial code cleanup in the AWS extensions, which should
+dramatically improve compilation and testing time.
+
+No code was modified within this patch, apart from log statements,
+removing a method from the web identity provider that was unused and
+adding a stub point+absl:statusOr handling for sigv4a key derivation to
+allow us to improve code coverage.
+
+Main summary of the patch:
+- Removed unused build dependencies and implicit dependencies
+- Removed unused header includes
+- Replaced all ENVOY_LOG_MISC calls with ENVOY_LOG to aws destination
+- Moved signer code to its own subdirectory
+- Split credential_provider_impl monolith into individual credential
+providers, and moved into its own credential_providers subdirectory
+
+Commit Message: aws: refactoring and code cleanup
+Additional Description:
+Risk Level: Negligible - no code was modified (apart from minor coverage
+changes as described above)
+Testing: Unit
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features:
+[Optional Runtime guard:]
+[Optional Fixes #Issue]
+[Optional Fixes commit #PR or SHA]
+[Optional Deprecated:]
+[Optional [API
+Considerations](https://github.com/envoyproxy/envoy/blob/main/api/review_checklist.md):]
+
+---------
+
+Signed-off-by: Nigel Brittain &lt;nbaws@amazon.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#411b9dc</div>
+                                        <div class="message">CI: Add unowned to fix ci. (#38787)
+
+Commit Message: CI: Add unowned to fix ci.
+
+Signed-off-by: Kevin Baichoo &lt;envoy@kevinbaichoo.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53941d9</div>
+                                        <div class="message">dynamic_modules: add dynamic modules http filter onStreamComplete support (#38647)
+
+Commit Message: add dynamic modules http filter onStreamComplete support
+Additional Description: Rust SDK can take actions to onStreamComplete
+callback before Envoy flushing logs
+Risk Level: low
+Testing: unit test
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+
+---------
+
+Signed-off-by: Zhaoyang Li &lt;zhaoyli311@gmail.com&gt;
+Signed-off-by: Zhaoyang Li &lt;155413158+zhaoyangli311@users.noreply.github.com&gt;
+Co-authored-by: Takeshi Yoneda &lt;t.y.mathetake@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b215aa1</div>
+                                        <div class="message">dynamic_modules: make dynamic module filter a dual filter (#38686)
+
+Signed-off-by: Vikas Choudhary (vikasc) &lt;choudharyvikas16@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b3c482</div>
+                                        <div class="message">redis: Fix a crash bug in Redis cluster on empty DNS response (#38710)
+
+Commit Message: Fixes a crash bug in Redis cluster when the cluster
+primary/replica address lookups return an DNS empty response.
+Additional Description: In a certain DNS resolver implementation, such
+as c-ares, it treats [an empty DNS response as
+successful](https://github.com/envoyproxy/envoy/blob/7961474b4b8f341204e5e900dda7177d05e79b94/source/extensions/network/dns_resolver/cares/dns_impl.cc#L283-L288).
+This PR adds a guard to avoid getting an element from an empty list that
+can result in a crash.
+Risk Level: low
+Testing: unit tests
+Docs Changes: updated
+Release Notes: updated
+Platform Specific Features: redis
+
+Fixes https://github.com/envoyproxy/envoy/issues/37769
+
+---------
+
+Signed-off-by: Doug Tabacco &lt;tabacco@dougtabacco.com&gt;
+Signed-off-by: Fredy Wijaya &lt;fredyw@google.com&gt;
+Co-authored-by: Doug Tabacco &lt;tabacco@dougtabacco.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59578c7</div>
+                                        <div class="message">kafka: set autoescape for Jinja templates (#38711)
+
+Commit Message: Autoescape protects web applications against most common
+cross-site-scripting (XSS) vulnerabilities.
+While the output from Jinja templates in the Kafka module don't generate
+HTML, enabling autoescape for HTML/XML avoids tripping automatic
+security scanners.
+Additional Description: There are more occurrences of Jinja templates
+that need fixing but those affect the docs generation and need a bigger
+CR, so I'll keep those for later.
+Risk Level: Low
+Testing: `./ci/do_ci.sh release.test_only` -- 3 tests failed, see below
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+[Optional Runtime guard:]
+[Optional Fixes #Issue]
+[Optional Fixes commit #PR or SHA]
+[Optional Deprecated:]
+[Optional [API
+Considerations](https://github.com/envoyproxy/envoy/blob/main/api/review_checklist.md):]
+
+Failing tests. None of these is related to this PR and still fail
+locally without the patch.
+```
+//test/extensions/filters/http/dynamic_forward_proxy:legacy_proxy_filter_integration_test FAILED in 34.4s
+  /build/bazel_root/base/execroot/envoy/bazel-out/k8-opt/testlogs/test/extensions/filters/http/dynamic_forward_proxy/legacy_proxy_filter_integration_test/test.log
+//test/extensions/filters/http/dynamic_forward_proxy:proxy_filter_integration_test FAILED in 42.3s
+  /build/bazel_root/base/execroot/envoy/bazel-out/k8-opt/testlogs/test/extensions/filters/http/dynamic_forward_proxy/proxy_filter_integration_test/test.log
+//test/integration:quic_http_integration_test                            FAILED in 23.7s
+  /build/bazel_root/base/execroot/envoy/bazel-out/k8-opt/testlogs/test/integration/quic_http_integration_test/test.log
+```
+
+Signed-off-by: Mattia Dongili &lt;malattia@amazon.co.jp&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1ef16d</div>
+                                        <div class="message">Remove code owner for Redis filter (#38719)
+
+Signed-off-by: Wei Si &lt;101750241+weisisea@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1609d78</div>
+                                        <div class="message">Ext_Proc: Encode filter protocol configuration and send to the server (#38755)
+
+This is the follow up PR for:
+https://github.com/envoyproxy/envoy/pull/38755.
+It encodes the ext_proc filter protocol configuration and sends to the
+server.
+The encoding only happens in the first gRPC message.
+
+---------
+
+Signed-off-by: Yanjun Xiang &lt;yanjunxiang@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ac9d8f</div>
+                                        <div class="message">ci: Only collect logs if the logs dir exist (#38774)
+
+Failures can happen before tests actually execute, in those cases do not
+attempt to collect anything, otherwise we get this error:
+
+```
+./ci/do_ci.sh: line 125: pushd: bazel-testlogs: No such file or directory
+```
+
+Signed-off-by: Jonh Wendell &lt;jwendell@redhat.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a4559e</div>
+                                        <div class="message">deps: Update QUICHE from 9d3b9500e to 13e508dec (#38754)
+
+https://github.com/google/quiche/compare/9d3b9500e..13e508dec
+    
+```
+$ git log 9d3b9500e..ae2b57c8c --date=short --no-merges --format="%ad %al %s"
+    
+2025-03-14 vasilvv Fold QuicheDefaultMemSliceImpl into QuicheMemSlice.
+2025-03-13 vasilvv Deprecate --gfe2_restart_flag_quiche_use_default_memslice.
+2025-03-12 martinduke Update to MoQT draft-10. Use new extensions encoding (just passing a blob)
+```
+
+Commit Message: deps: Update QUICHE from 9d3b9500e to 13e508dec
+Additional Description:
+Risk Level:
+Testing:
+Docs Changes:
+Release Notes:
+Platform Specific Features:
+
+---------
+
+Signed-off-by: Biren Roy &lt;birenroy@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecf8ac8</div>
+                                        <div class="message">udp: fix downstream_rx_datagram_dropped metric calculation (#38652)
+
+Additional Description: When datagrams are dropped from a UDP socket, a
+wrong calculation causes previously dropped datagrams to be counted
+again, leading to incorrect number of UDP datagrams drop. Fixes #38431
+Risk Level: low
+Testing: unit tests
+Docs Changes: changelog
+Release Notes: None
+Platform Specific Features: None
+
+Signed-off-by: Ohad Vano &lt;ohadvano@gmail.com&gt;
+Signed-off-by: ohadvano &lt;49730675+ohadvano@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f910f4a</div>
+                                        <div class="message">docs: Fix typo in header_map.md (#38770)
+
+Commit Message: Fix typo in header_map.md
+Additional Description:
+Risk Level:
+Testing:
+Docs Changes:
+Release Notes:
+Platform Specific Features:
+
+Signed-off-by: Ben Plotnick &lt;ben.plotnick@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa65968</div>
+                                        <div class="message">optimize: reduce the use of temporary shared_ptr in refreshDur… (#38736)
+
+…ationTimeout
+
+&lt;!--
+!!!ATTENTION!!!
+
+If you are fixing *any* crash or *any* potential security issue, *do
+not*
+open a pull request in this repo. Please report the issue via emailing
+envoy-security@googlegroups.com where the issue will be triaged
+appropriately.
+Thank you in advance for helping to keep Envoy secure.
+
+!!!ATTENTION!!!
+
+For an explanation of how to fill out the fields, please see the
+relevant section
+in
+[PULL_REQUESTS.md](https://github.com/envoyproxy/envoy/blob/main/PULL_REQUESTS.md)
+--&gt;
+
+Commit Message :refreshDurationTimeout() can same with
+refreshIdleTimeout() to use cached_route_
+changes summary:
+```C++
+  if (hasCachedRoute()) {
+    const Router::RouteEntry* route = cached_route_.value()-&gt;routeEntry();
+    if (route == nullptr || !request_headers_) {
+      return;
+    }
+  ...
+
+}
+```
+Additional Description: No
+Risk Level: Low
+Testing: In high QPS testing case, refreshDurationTimeout have better
+performance than before.
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+[Optional Runtime guard:]
+[Optional Fixes #Issue]
+[Optional Fixes commit #PR or SHA]
+[Optional Deprecated:]
+[Optional [API
+Considerations](https://github.com/envoyproxy/envoy/blob/main/api/review_checklist.md):]
+
+Signed-off-by: zhangzhiwen &lt;zhangzhiwen.hangzhou@outlook.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
                         </div>
                     </section>
                 </div>
@@ -1382,7 +1775,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2025, 00:17:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2025, 00:17:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
