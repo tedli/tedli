@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="847" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1207" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.repository .name{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -342,7 +342,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.11
+                            Average per day at ~0.10
                         </div>
                     </section>
                 </div>
@@ -1313,6 +1313,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1326,11 +1331,813 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
-                            </svg>
-                            No recent activity
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 130 commits in
+                                        <span class="repo">tedli/envoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bbc17c7</div>
+                                        <div class="message">build(deps): bump pep8-naming from 0.14.1 to 0.15.1 in /tools/base (#39350)
+
+Bumps [pep8-naming](https://github.com/PyCQA/pep8-naming) from 0.14.1 to
+0.15.1.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/PyCQA/pep8-naming/releases"&gt;pep8-naming's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;0.15.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;N808 now allows type variable names to start with an
+underscore.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;0.15.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for Python 3.13.&lt;/li&gt;
+&lt;li&gt;Drop support for Python 3.8.&lt;/li&gt;
+&lt;li&gt;N808 checks type variable names use the CapWords convention and have
+an appropriate suffix.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/PyCQA/pep8-naming/blob/main/CHANGELOG.rst"&gt;pep8-naming's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;0.15.1 - 2025-05-05&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;N808 now allows type variable names to start with an
+underscore.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;0.15.0 - 2025-04-29&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for Python 3.13.&lt;/li&gt;
+&lt;li&gt;Drop support for Python 3.8.&lt;/li&gt;
+&lt;li&gt;N808 checks type variable names use the CapWords convention and have
+an appropriate suffix.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/PyCQA/pep8-naming/commit/77b5e964f3099638356ca93f4daf509013cd5be0"&gt;&lt;code&gt;77b5e96&lt;/code&gt;&lt;/a&gt;
+Prepare the 0.15.1 release (&lt;a
+href="https://redirect.github.com/PyCQA/pep8-naming/issues/248"&gt;#248&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/PyCQA/pep8-naming/commit/9c83095007cd0846e3316998c4f481b8c74a6ee5"&gt;&lt;code&gt;9c83095&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/PyCQA/pep8-naming/issues/246"&gt;#246&lt;/a&gt;
+from PyCQA/typevar-prefix&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/PyCQA/pep8-naming/commit/f60a0633dcc36112e642d91700c9d8e6c100cbed"&gt;&lt;code&gt;f60a063&lt;/code&gt;&lt;/a&gt;
+Only support a single leading underscore&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/PyCQA/pep8-naming/commit/596b659aa4b6c6d2a7d40b733a5c08b58370c963"&gt;&lt;code&gt;596b659&lt;/code&gt;&lt;/a&gt;
+Allow TypeVar names to start with underscores&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/PyCQA/pep8-naming/commit/a6be8396cfa16e5bfeadb0fe70de84d832464e0d"&gt;&lt;code&gt;a6be839&lt;/code&gt;&lt;/a&gt;
+Prepare the 0.15.0 release (&lt;a
+href="https://redirect.github.com/PyCQA/pep8-naming/issues/244"&gt;#244&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/PyCQA/pep8-naming/commit/d4e33d0d065e86fa0c34925d41321b9ad00fc6c2"&gt;&lt;code&gt;d4e33d0&lt;/code&gt;&lt;/a&gt;
+FunctionType typing improvements (&lt;a
+href="https://redirect.github.com/PyCQA/pep8-naming/issues/243"&gt;#243&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/PyCQA/pep8-naming/commit/93dee193c7fb87c53879ac240e47185e0f40a4b0"&gt;&lt;code&gt;93dee19&lt;/code&gt;&lt;/a&gt;
+Type 'parents' as Sequence (&lt;a
+href="https://redirect.github.com/PyCQA/pep8-naming/issues/242"&gt;#242&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/PyCQA/pep8-naming/commit/95db1bc36036aff97d2d5e05ba968f697c8d51dc"&gt;&lt;code&gt;95db1bc&lt;/code&gt;&lt;/a&gt;
+Add a fast path for NameSets without wildcards (&lt;a
+href="https://redirect.github.com/PyCQA/pep8-naming/issues/241"&gt;#241&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/PyCQA/pep8-naming/commit/bc1a7e4f2124a5d4aa11568512858088ee821dd0"&gt;&lt;code&gt;bc1a7e4&lt;/code&gt;&lt;/a&gt;
+Refactor ignored name handling (&lt;a
+href="https://redirect.github.com/PyCQA/pep8-naming/issues/240"&gt;#240&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/PyCQA/pep8-naming/commit/77da1528cfb6c627b97f956b4f36ee1422a4e2ce"&gt;&lt;code&gt;77da152&lt;/code&gt;&lt;/a&gt;
+Use &lt;strong&gt;init_subclass&lt;/strong&gt; for subclass registration (&lt;a
+href="https://redirect.github.com/PyCQA/pep8-naming/issues/237"&gt;#237&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/PyCQA/pep8-naming/compare/0.14.1...0.15.1"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=pep8-naming&amp;package-manager=pip&amp;previous-version=0.14.1&amp;new-version=0.15.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81bee0b</div>
+                                        <div class="message">build(deps): bump icalendar from 6.1.2 to 6.2.0 in /tools/base (#39390)
+
+Bumps [icalendar](https://github.com/collective/icalendar) from 6.1.2 to
+6.2.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/collective/icalendar/releases"&gt;icalendar's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v6.2.0&lt;/h2&gt;
+&lt;p&gt;To view the changes, please see the &lt;a
+href="https://icalendar.readthedocs.io/en/latest/changelog.html"&gt;Changelog&lt;/a&gt;.
+This release can be installed from &lt;a
+href="https://pypi.org/project/icalendar/#history"&gt;PyPI&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;v6.1.3&lt;/h2&gt;
+&lt;p&gt;To view the changes, please see the &lt;a
+href="https://icalendar.readthedocs.io/en/latest/changelog.html"&gt;Changelog&lt;/a&gt;.
+This release can be installed from &lt;a
+href="https://pypi.org/project/icalendar/#history"&gt;PyPI&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/collective/icalendar/blob/main/CHANGES.rst"&gt;icalendar's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;6.2.0 (2025-05-07)&lt;/h2&gt;
+&lt;p&gt;Minor changes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use &lt;code&gt;ruff&lt;/code&gt; to format the source code.&lt;/li&gt;
+&lt;li&gt;Update project metadata to use License-Expression.&lt;/li&gt;
+&lt;li&gt;Use &lt;code&gt;tzp.localize(dt, None)&lt;/code&gt; to remove the timezone from
+a datetime.&lt;/li&gt;
+&lt;li&gt;Remove the HTML documentation when building with &lt;code&gt;tox&lt;/code&gt; to
+force rebuild.&lt;/li&gt;
+&lt;li&gt;Switch to PyData Sphinx Theme for documentation. See &lt;code&gt;Issue 803
+&amp;lt;https://github.com/collective/icalendar/issues/804&amp;gt;&lt;/code&gt;_.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;New features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add getters &lt;code&gt;rrules&lt;/code&gt;, &lt;code&gt;rdates&lt;/code&gt;, and
+&lt;code&gt;exdates&lt;/code&gt; for unified and simple access to these properties.
+See &lt;code&gt;Issue 662&lt;/code&gt;_.&lt;/li&gt;
+&lt;li&gt;Add attributes to the calendar for properties &lt;code&gt;NAME&lt;/code&gt;,
+&lt;code&gt;DESCRIPTION&lt;/code&gt;, and &lt;code&gt;COLOR&lt;/code&gt;. See &lt;code&gt;Issue 655
+&amp;lt;https://github.com/collective/icalendar/issues/655&amp;gt;&lt;/code&gt;_.&lt;/li&gt;
+&lt;li&gt;Add a &lt;code&gt;color&lt;/code&gt; attribute to &lt;code&gt;Event&lt;/code&gt;,
+&lt;code&gt;Todo&lt;/code&gt;, and &lt;code&gt;Journal&lt;/code&gt; components. See &lt;code&gt;Issue
+655&lt;/code&gt;_.&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;sequence&lt;/code&gt; attribute to &lt;code&gt;Event&lt;/code&gt;,
+&lt;code&gt;Todo&lt;/code&gt;, and &lt;code&gt;Journal&lt;/code&gt; components. See &lt;code&gt;Issue
+802
+&amp;lt;https://github.com/collective/icalendar/issues/802&amp;gt;&lt;/code&gt;_.&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;categories&lt;/code&gt; attribute to &lt;code&gt;Calendar&lt;/code&gt;,
+&lt;code&gt;Event&lt;/code&gt;, &lt;code&gt;Todo&lt;/code&gt;, and &lt;code&gt;Journal&lt;/code&gt;
+components. See &lt;code&gt;Issue 655
+&amp;lt;https://github.com/collective/icalendar/issues/655&amp;gt;&lt;/code&gt;_.&lt;/li&gt;
+&lt;li&gt;Add compatibility to :rfc:&lt;code&gt;6868&lt;/code&gt;. See &lt;code&gt;Issue 652
+&amp;lt;https://github.com/collective/icalendar/issues/652&amp;gt;&lt;/code&gt;_.&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;freebusy&lt;/code&gt; property to the &lt;code&gt;Calendar&lt;/code&gt; to
+get this type of subcomponents easier.&lt;/li&gt;
+&lt;li&gt;Add parameters from :rfc:&lt;code&gt;5545&lt;/code&gt; to properties
+&lt;code&gt;ALTREP&lt;/code&gt;, &lt;code&gt;CN&lt;/code&gt;, &lt;code&gt;CUTYPE&lt;/code&gt;,
+&lt;code&gt;DELEGATED_FROM&lt;/code&gt;, &lt;code&gt;DELEGATED_TO&lt;/code&gt;,
+&lt;code&gt;DIR&lt;/code&gt;, &lt;code&gt;FBTYPE&lt;/code&gt;, &lt;code&gt;LANGUAGE&lt;/code&gt;,
+&lt;code&gt;MEMBER&lt;/code&gt;, &lt;code&gt;PARTSTAT&lt;/code&gt;, &lt;code&gt;RANGE&lt;/code&gt;,
+&lt;code&gt;RELATED&lt;/code&gt;, &lt;code&gt;ROLE&lt;/code&gt;, &lt;code&gt;RSVP&lt;/code&gt;,
+&lt;code&gt;SENT_BY&lt;/code&gt;, &lt;code&gt;TZID&lt;/code&gt;, and &lt;code&gt;RELTYPE&lt;/code&gt;. See
+&lt;code&gt;Issue 798
+&amp;lt;https://github.com/collective/icalendar/issues/798&amp;gt;&lt;/code&gt;_.&lt;/li&gt;
+&lt;li&gt;New properties from :rfc:&lt;code&gt;7986&lt;/code&gt; can occur multiple times
+in &lt;code&gt;VCALENDAR&lt;/code&gt;. See &lt;code&gt;PR 808&lt;/code&gt;_.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bug fixes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix &lt;code&gt;STANDARD&lt;/code&gt; and &lt;code&gt;DAYLIGHT&lt;/code&gt; components that
+have a date as &lt;code&gt;DTSTART&lt;/code&gt;. See &lt;code&gt;Issue 218
+&amp;lt;https://github.com/collective/icalendar/issues/218&amp;gt;&lt;/code&gt;_&lt;/li&gt;
+&lt;li&gt;Move import at the end of &lt;code&gt;icalendar.parser&lt;/code&gt; into a
+function to mitigate import errors, see &lt;code&gt;Issue 781
+&amp;lt;https://github.com/collective/icalendar/issues/781&amp;gt;&lt;/code&gt;_.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ALTREP&lt;/code&gt;, &lt;code&gt;DELEGATED-FROM&lt;/code&gt;,
+&lt;code&gt;DELEGATED-TO&lt;/code&gt;, &lt;code&gt;DIR&lt;/code&gt;, &lt;code&gt;MEMBER&lt;/code&gt;, and
+&lt;code&gt;SENT-BY&lt;/code&gt; require double quotes. These are now always
+added.&lt;/li&gt;
+&lt;li&gt;Classify &lt;code&gt;CATEGORIES&lt;/code&gt; as multiple in &lt;code&gt;VEVENT&lt;/code&gt;.
+See &lt;code&gt;PR 808
+&amp;lt;https://github.com/collective/icalendar/pull/808&amp;gt;&lt;/code&gt;_.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;6.1.3 (2025-03-19)&lt;/h2&gt;
+&lt;p&gt;Bug fixes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix to permit TZID forward references to VTIMEZONEs&lt;/li&gt;
+&lt;li&gt;Stabelize timezone id lookup, see &lt;code&gt;Issue 780
+&amp;lt;https://github.com/collective/icalendar/issues/780&amp;gt;&lt;/code&gt;_.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/collective/icalendar/commit/07d49e75cf5716aeed3f3c2fc41c41f4733fcecc"&gt;&lt;code&gt;07d49e7&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/collective/icalendar/issues/824"&gt;#824&lt;/a&gt;
+from niccokunzmann/release&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/collective/icalendar/commit/44dac82ade05ae9b576955f40a96da8fe12eb1ec"&gt;&lt;code&gt;44dac82&lt;/code&gt;&lt;/a&gt;
+version 6.2.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/collective/icalendar/commit/c76f0fab206817c978e3adb127cdff6110a098f8"&gt;&lt;code&gt;c76f0fa&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/collective/icalendar/issues/811"&gt;#811&lt;/a&gt;
+from niccokunzmann/issue-218&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/collective/icalendar/commit/4f53a3051fc5b11d00bdfbf019c869649a1938ab"&gt;&lt;code&gt;4f53a30&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/collective/icalendar/issues/810"&gt;#810&lt;/a&gt;
+from niccokunzmann/issue-798&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/collective/icalendar/commit/ec46b5dedd6e9eb87ec0f0089ec4509770fda011"&gt;&lt;code&gt;ec46b5d&lt;/code&gt;&lt;/a&gt;
+Update tox.ini&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/collective/icalendar/commit/7dbf35b5e1fd2c14acb59ac78d9382275233c260"&gt;&lt;code&gt;7dbf35b&lt;/code&gt;&lt;/a&gt;
+remove format definition&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/collective/icalendar/commit/e2955595a5b18326f8037e8c31278356b1408880"&gt;&lt;code&gt;e295559&lt;/code&gt;&lt;/a&gt;
+Address review&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/collective/icalendar/commit/93a3fd2550600f6ec4fb782e74af59105f412acd"&gt;&lt;code&gt;93a3fd2&lt;/code&gt;&lt;/a&gt;
+Update CHANGES.rst&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/collective/icalendar/commit/ffd96177775c9db18cd2f15943eeec77d0cc89c5"&gt;&lt;code&gt;ffd9617&lt;/code&gt;&lt;/a&gt;
+Update CHANGES.rst&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/collective/icalendar/commit/a96ae9655c381fa775932daad6029179a928912f"&gt;&lt;code&gt;a96ae96&lt;/code&gt;&lt;/a&gt;
+Format documentation strings for all parameters and vCalAddress&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/collective/icalendar/compare/v6.1.2...v6.2.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=icalendar&amp;package-manager=pip&amp;previous-version=6.1.2&amp;new-version=6.2.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bd2491</div>
+                                        <div class="message">build(deps): bump setuptools from 78.1.0 to 80.4.0 in /tools/base (#39434)
+
+Bumps [setuptools](https://github.com/pypa/setuptools) from 78.1.0 to
+80.4.0.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/pypa/setuptools/blob/main/NEWS.rst"&gt;setuptools's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;v80.4.0&lt;/h1&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simplified the error reporting in editable installs. (&lt;a
+href="https://redirect.github.com/pypa/setuptools/issues/4984"&gt;#4984&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;v80.3.1&lt;/h1&gt;
+&lt;h2&gt;Bugfixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Restored select attributes in easy_install for temporary pbr
+compatibility. (&lt;a
+href="https://redirect.github.com/pypa/setuptools/issues/4976"&gt;#4976&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;v80.3.0&lt;/h1&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed easy_install and package_index modules. (&lt;a
+href="https://redirect.github.com/pypa/setuptools/issues/917"&gt;#917&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Restored license declaration in package metadata. See &lt;a
+href="https://redirect.github.com/jaraco/skeleton/issues/171"&gt;jaraco/skeleton#171&lt;/a&gt;.
+(&lt;a
+href="https://redirect.github.com/pypa/setuptools/issues/4956"&gt;#4956&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;v80.2.0&lt;/h1&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Restored support for install_scripts --executable (and classic
+behavior for the executable for those invocations). Instead,
+build_editable provides the portable form of the executables for
+downstream installers to rewrite. (&lt;a
+href="https://redirect.github.com/pypa/setuptools/issues/4934"&gt;#4934&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;v80.1.0&lt;/h1&gt;
+&lt;h2&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added a deadline of Oct 31 to the setup.py install deprecation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Bugfixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;With &lt;code&gt;setup.py install --prefix=...&lt;/code&gt;, fall back to
+distutils install rather than failing. Note that running &lt;code&gt;setup.py
+install&lt;/code&gt; is deprecated. (&lt;a
+href="https://redirect.github.com/pypa/setuptools/issues/3143"&gt;#3143&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/pypa/setuptools/commit/a82f96dc43cbfb9968b100256cb50702becd614e"&gt;&lt;code&gt;a82f96d&lt;/code&gt;&lt;/a&gt;
+Bump version: 80.3.1 → 80.4.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/pypa/setuptools/commit/aa4bdf8281e7d4e716abcff7ad2a916e0f05e27b"&gt;&lt;code&gt;aa4bdf8&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/pypa/setuptools/issues/4985"&gt;#4985&lt;/a&gt;
+from pypa/feature/user-focused-editable-installs&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/pypa/setuptools/commit/af2f2baf5b4ee81ed45a003070d68badf3f10b11"&gt;&lt;code&gt;af2f2ba&lt;/code&gt;&lt;/a&gt;
+Add news fragment.&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/pypa/setuptools/commit/bcc23a221e4d811bd37f5fe73d08f4013890cfb0"&gt;&lt;code&gt;bcc23a2&lt;/code&gt;&lt;/a&gt;
+Implement the editable debugging tips as a reference to the docs.&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/pypa/setuptools/commit/aa911c6db2c10c5ac022afaa8d6da1e6c5688524"&gt;&lt;code&gt;aa911c6&lt;/code&gt;&lt;/a&gt;
+By default, provide a much more concise error message.&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/pypa/setuptools/commit/f37845bce6bb06ec25c24cf30210a485e945d21e"&gt;&lt;code&gt;f37845b&lt;/code&gt;&lt;/a&gt;
+Bump version: 80.3.0 → 80.3.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/pypa/setuptools/commit/a6f8db0c3932879f5e1876d97d32b3a7b567b9d5"&gt;&lt;code&gt;a6f8db0&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/pypa/setuptools/issues/4980"&gt;#4980&lt;/a&gt;
+from pypa/debt/4976-pbr-compat&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/pypa/setuptools/commit/05cf544d23b8bbe5f914d198c2620abced8b7477"&gt;&lt;code&gt;05cf544&lt;/code&gt;&lt;/a&gt;
+Add news fragment.&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/pypa/setuptools/commit/5b39e4e50510e62902260fd4a437143cbf42c7f8"&gt;&lt;code&gt;5b39e4e&lt;/code&gt;&lt;/a&gt;
+Add the deprecation warning to attribute access.&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/pypa/setuptools/commit/30c00380093b1a7ff5693f98d06ab4fa4f8923cf"&gt;&lt;code&gt;30c0038&lt;/code&gt;&lt;/a&gt;
+Render the attributes dynamically.&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/pypa/setuptools/compare/v78.1.0...v80.4.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=setuptools&amp;package-manager=pip&amp;previous-version=78.1.0&amp;new-version=80.4.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12e82c2</div>
+                                        <div class="message">mobile: Adds a runtime guard to drain connections on network change (#39418)
+
+This commit adds a FALSE runtime guard
+`drain_conn_pools_on_network_change` to drain network connections on
+network change events when DNS refresh on network change is disabled.
+
+The preference is to *not* refresh DNS on network change but to drain
+the connections only. Right now, refreshing DNS is the only way to drain
+connections too, but the goal of this commit is to decouple the two
+operations and experiment with both.
+
+Signed-off-by: Ali Beyad &lt;abeyad@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ebd58cf</div>
+                                        <div class="message">Update QUICHE from 97396ea81 to e3f34245b (#39379)
+
+https://github.com/google/quiche/compare/97396ea81..e3f34245b
+
+```
+$ git log 97396ea81..e3f34245b --date=short --no-merges --format="%ad %al %s"
+
+2025-05-05 martinduke Change MoQT control message size to be 16 bits.
+2025-05-05 quiche-dev Remove an extra trailing comma to avoid breakage with an upcoming Crosstool release.
+2025-05-05 haoyuewang Deprecate --gfe2_restart_flag_quic_use_one_map_in_time_wait_list.
+2025-05-05 martinduke Replace MoqT `SUBSCRIBES_BLOCKED` with `REQUESTS_BLOCKED`.
+2025-05-05 martinduke Rename max_subscribe_id to max_request_id.
+2025-05-05 martinduke MoQT Version Negotiation has its own error code. (draft-11)
+2025-05-05 martinduke Update MoQT ANNOUNCE and SUBSCRIBE_ANNOUNCES callbacks to provide parameters.
+2025-05-05 martinduke Use "kInvalidPath" and "kKeyValueFormattingError" when processing MoQT Setup parameters.
+2025-05-05 martinduke Support the new 'Invalid Request ID' MoQT error type.
+2025-05-05 martinduke Implement MoQT AUTHORIZATION_TAG format but do not allow caching of tags.
+```
+
+Signed-off-by: Renjie Tang &lt;renjietang@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f767cf7</div>
+                                        <div class="message">message visitor: use dynamic visitor after main loop started (#39428)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#214ca92</div>
+                                        <div class="message">build/docker: Fix permissions in distroless image (#39427)
+
+Fix #39421
+
+Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c38c6fa</div>
+                                        <div class="message">Cleanup gtest repository info (#39423)
+
+Risk Level: None
+Testing: Unit test
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9dd1d85</div>
+                                        <div class="message">dynamic_modules: fixes crash when config init failed (#39422)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11f1c8f</div>
+                                        <div class="message">Update googletest to v1.17 (#39305)
+
+Additional Description:
+Coverage is lowered due to class methods defined in headers incorrectly
+marked as non-covered. PR #39030 is attempting to solve this. For now
+the min coverage values will be adjusted to make PR pass, since there is
+no real regression to coverage.
+
+I have verified that all coverage degradation is trivial due to
+non-covered functions in headers (i.e. extension name in a factory).
+Coverage adjusted for the following extensions:
+
+source/extensions/filters/http/dynamic_forward_proxy:94.3
+source/extensions/filters/http/decompressor:95.9
+source/extensions/filters/http/ext_proc:96.5
+source/extensions/filters/network/dubbo_proxy:96.2
+source/extensions/internal_redirect:86.2
+source/extensions/internal_redirect/safe_cross_scheme:81.2
+source/extensions/internal_redirect/allow_listed_routes:85.7
+source/extensions/internal_redirect/previous_routes:89.3
+source/extensions/load_balancing_policies/maglev:90.7
+source/extensions/load_balancing_policies/ring_hash:96.2
+source/extensions/transport_sockets/proxy_protocol:96.2
+
+
+Risk Level: Low
+Testing: Unit Tests
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+
+---------
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#972fd17</div>
+                                        <div class="message">Add unit tests for CredentialsProviderChain::onCredentialUpdate (#39405)
+
+Commit Message:
+
+I'm trying to migrate Envoy CI coverage runs from the current Google RBE
+backends to EngFlow (there is a long story behind that, which I will not
+cover here).
+
+When we tried to do it last time we hit an issue that on EngFlow for
+some part of the codebase coverage fell below the threshold and caused
+CI failures. AWS signer/credential providers code was among those.
+
+Looking at the diff in coverage report before and after, I figured out
+that coverage for CredentialsProviderChain::onCredentialUpdate was
+missing.
+
+So how come this code is covered when we use Google RBE backends and not
+covered when we use EngFlow? While it's hard to conclusively confirm
+what was the issue in that particular failed EngFlow coverage run,
+because coverage runs don't show test logs, I believe that the coverage
+for this part of the code is not completely deterministic and depends on
+timing.
+
+Currently CredentialsProviderChain::onCredentialUpdate can only be
+exercised by
+
+//test/extensions/filters/http/aws_request_signing:aws_request_signing_integration_test.
+However the test may pass without ever triggering
+
+https://github.com/envoyproxy/envoy/blob/bef281049e4a914f573168e87618335fb7384a50/source/extensions/common/aws/credentials_provider.cc#L66-L79.
+That's because the test only waits for the metric that reports
+successful credential refreshes to be incremented, but that could happen
+before credentials have been pushed to all threads and
+onCredentialUpdate is called.
+
+I could pretty consistently reproduce this by making the following
+changes:
+
+1. add RELEASE_ASSERT(false, "got you!"); to
+https://github.com/envoyproxy/envoy/blob/bef281049e4a914f573168e87618335fb7384a50/source/extensions/common/aws/credentials_provider.cc#L65
+to make sure that the tests that reach this part of the code fail
+2. add absl::SleepFor(absl::Seconds(1)); to
+https://github.com/envoyproxy/envoy/blob/bef281049e4a914f573168e87618335fb7384a50/source/extensions/common/aws/metadata_credentials_provider_base.cc#L119
+to introduce an artifical delay.
+
+When I run
+//test/extensions/filters/http/aws_request_signing:aws_request_signing_integration_test
+with those changes I repeatedly got the test passing, which demonstrates
+that
+https://github.com/envoyproxy/envoy/blob/bef281049e4a914f573168e87618335fb7384a50/source/extensions/common/aws/credentials_provider.cc#L66-L79
+was never exercised, so the RELEASE_ASSERT never triggered.
+
+This PR adds a simple and deterministic unit test that exercies
+onCredentialUpdate. This will allow us to get deterministic coverage
+results.
+
+NOTE: Alternatively, we could consider changing the code to only
+increment the metric after the credentials propagated to all the worker
+threads, but that change will be more invasive than a simple unit test.
+
+Additional Description:
+
+I'm doing this change to allow us to finish migration of the coverage
+tests to EngFLow. https://github.com/envoyproxy/envoy/pull/39030
+provides some context for why this migration is needed and
+https://github.com/envoyproxy/envoy/issues/39248 is a tracking bug.
+
+Risk Level: low
+Testing: manually by running the test locally and confirming that it
+covers the relevant part of the code
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
++cc @phlax
+
+---------
+
+Signed-off-by: Mikhail Krinkin &lt;mkrinkin@microsoft.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51a59c6</div>
+                                        <div class="message">repo: Add @agrawroh as a maintainer (#39417)
+
+Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05352f6</div>
+                                        <div class="message">opentelemetry tracer: implement TraceIDRatioBased and ParentBased samplers  (#37787)
+
+Commit Message: implement TraceIDRatioBased and ParentBased samplers
+
+Additional Description:
+[A previous issue](https://github.com/envoyproxy/envoy/issues/35016)
+existed for adding opentelemetry samplers to Envoy so I didn't create a
+new one. The PR at hand implements two of these samplers.
+The implementation and testing strategies are inspired by the OTEL's
+[Go](https://github.com/open-telemetry/opentelemetry-go) and
+[CPP](https://github.com/open-telemetry/opentelemetry-cpp) SDKs.
+
+Risk Level: Low
+
+Testing: The PR has unit and integration tests which I've run locally.
+
+Docs Changes:
+Release Notes:
+Platform Specific Features:
+
+---------
+
+Signed-off-by: Ahmad Karimi &lt;ak12hastam@gmail.com&gt;
+Signed-off-by: therealak12 &lt;ak12hastam@gmail.com&gt;
+Co-authored-by: code &lt;wbphub@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e5bbb5</div>
+                                        <div class="message">Dynamic forwarding load balancing policy (#38757)
+
+Commit Message:
+Additional Description:
+
+Risk Level: Low, new extension
+Testing: Unit Tests
+Docs Changes: Yes
+Release Notes: Yes
+Platform Specific Features: N/A
+
+---------
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b701b03</div>
+                                        <div class="message">hcm: Ensure operations are not called on deleted stream decoders (#39346)
+
+Previously, it was possible for the `ActiveStream` in the
+`HttpConnectionManager` to get deleted while still trying to process
+packets from the codec.
+
+This change uses the `ActiveStreamHandle` with weak pointer semantics to
+ensure that even with incoming data packets, methods are not called on a
+deleted `ActiveStream`, which represents the HCM's `RequestDecoder`.
+
+---------
+
+Signed-off-by: Ali Beyad &lt;abeyad@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#297581b</div>
+                                        <div class="message">deps: bump up nghttp2 to v1.65.0 (#39410)
+
+## Description
+
+This PR bumps up the version of `nghttp2` to v1.65.0. This version
+completely removes RFC 7540 Priorities implementation and hence we are
+removing the `PriorityFlood` test.
+
+**Release Notes:** https://nghttp2.org/blog/2025/03/02/nghttp2-v1-65-0/
+
+---
+
+**Commit Message:** deps: bump up `nghttp2` to v1.65.0
+**Additional Description:** Bump up the version of `nghttp2` to v1.65.0
+**Risk Level:** Low
+**Testing:** CI
+**Docs Changes:** N/A
+**Release Notes:** N/A
+
+Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2a1a61</div>
+                                        <div class="message">deps: bump up google_benchmark to v1.9.3 (#39407)
+
+
+Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9db5e8</div>
+                                        <div class="message">ext_proc: Remove duplicate none-op clear watermarks (#39404)
+
+ext_proc: Remove duplicate none-op clear watermarks
+
+Signed-off-by: Yanjun Xiang &lt;yanjunxiang@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c5fec6e</div>
+                                        <div class="message">deps: bump up rules_python to v1.4.0 (#39383)
+
+This PR bumps up the version of `rules_python` to v1.4.0
+
+Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bef2810</div>
+                                        <div class="message">repo: Sync version histories (#39396)
+
+Signed-off-by: publish-envoy[bot] &lt;140627008+publish-envoy[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
                         </div>
                     </section>
                 </div>
@@ -1355,7 +2162,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 May 2025, 00:16:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 May 2025, 00:14:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
