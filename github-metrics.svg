@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1207" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="847" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            270 issue comments
+                            271 issue comments
                         </div>
                     </section>
                     <section>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    5.14 GB used
+                                    5.15 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1330,6 +1330,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1343,373 +1348,11 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 148 commits in
-                                        <span class="repo">tedli/envoy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#abc31a8</div>
-                                        <div class="message">Docs: Clang 18 should be the suggested used version. (#40429)
-
-Commit Message: Docs: Clang 18 should be the suggested used version.
-Additional Description: 
-Risk Level: n/a
-Testing: n/a
-Docs Changes: yes
-Release Notes: n/a
-Platform Specific Features: n/a
-
-Signed-off-by: Kevin Baichoo &lt;envoy@kevinbaichoo.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca73fe4</div>
-                                        <div class="message">hcm: deprecate flag explicit_internal_address_config and remove legacy code paths (#40398)
-
-## Description
-
-This PR removes the deprecated reloadable flag
-`explicit_internal_address_config` and cleans up the legacy paths.
-
-Fix https://github.com/envoyproxy/envoy/issues/40373
-
----
-
-**Commit Message:** hcm: deprecate flag explicit_internal_address_config
-and remove legacy code paths
-**Additional Description:** Remove the deprecated reloadable flag
-`explicit_internal_address_config` and cleans up the legacy paths.
-**Risk Level:** Low
-**Testing:** CI
-**Docs Changes:** N/A
-**Release Notes:** Added
-
-Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5472184</div>
-                                        <div class="message">upstream: clean up the constructor of cm (#40055)
-
-Commit Message: upstream: clean up the constructor of cm
-Additional Description:
-
-Clean up the constructor of cluster manager and cluster manager factory.
-To eliminate the ambiguity of the constructor parameters. If the
-ServerFactoryContext is used as the input parameter, then all the
-`Api::Api`, `Runtime::Loader`, etc should be accessed by the server
-factory context to avoid the ambiguirty.
-
-Risk Level: low, no any logic change.
-Testing: n/a.
-Docs Changes: n/a.
-Release Notes: n/a.
-Platform Specific Features: n/a.
-
----------
-
-Signed-off-by: wangbaiping(wbpcode) &lt;wbphub@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3569625</div>
-                                        <div class="message">release/docker: Bump Ubuntu -&gt; 1ec65b2 (#40422)
-
-Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6592881</div>
-                                        <div class="message">oauth2: deprecate flag oauth2_use_refresh_token and remove legacy code paths (#40397)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d39ce15</div>
-                                        <div class="message">ext_proc: Adding detail gRPC error message in the logging for debugging (#40387)
-
-Signed-off-by: Yanjun Xiang &lt;yanjunxiang@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f780d1</div>
-                                        <div class="message">repo: Sync version histories (#40421)
-
-Signed-off-by: publish-envoy[bot]
-Co-authored-by: publish-envoy[bot] &lt;140627008+publish-envoy[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#547d847</div>
-                                        <div class="message">opentelemetry: clean up the code to avoid unnecessary copy/constructing (#40405)
-
-Minor optimization.
-
-Risk Level: low.
-Testing: n/a.
-Docs Changes: n/a.
-Release Notes: n/a.
-Platform Specific Features: n/a.
-
----------
-
-Signed-off-by: wangbaiping(wbpcode) &lt;wbphub@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6f08b6</div>
-                                        <div class="message">bazel: Bump -&gt; 7.6.1 (#40413)
-
-Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e2ca7c</div>
-                                        <div class="message">Re-apply "matcher: refactor the matcher to avoid unnecessary wrapper and heap allocation (#40249)" (#40404)
-
-This reverts commit 0d341b982a24f3ddb9f4fd3a9bdd8880561103be.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c44af6</div>
-                                        <div class="message">dfp: deprecate flag avoid_dfp_cluster_removal_on_cds_update and remove legacy code paths (#40396)
-
-## Description
-
-This PR removes the deprecated reloadable flag
-`avoid_dfp_cluster_removal_on_cds_update` and cleans up the legacy
-paths.
-
-Fix https://github.com/envoyproxy/envoy/issues/40370
-
----
-
-**Commit Message:** dfp: deprecate flag
-avoid_dfp_cluster_removal_on_cds_update and remove legacy code paths
-**Additional Description:** Remove the deprecated reloadable flag
-`avoid_dfp_cluster_removal_on_cds_update` and cleans up the legacy
-paths.
-**Risk Level:** Low
-**Testing:** CI
-**Docs Changes:** N/A
-**Release Notes:** Added
-
-Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ea0022</div>
-                                        <div class="message">http ratelimit: Add rate_limits to filter config (#40118)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#534e71d</div>
-                                        <div class="message">release: Update expected/actual release date (#40241)
-
-Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5539171</div>
-                                        <div class="message">ci: fix health check integration test compilation (#40406)
-
-## Description
-
-This PR fixes the compilation issue for `health_check_integration_test`
-which is complaining about,
-```
-error: no member named 'TypeUrl' in namespace 'Envoy::Config'; did you mean 'TypeUtil'?
-```
-
-This happened due to a race condition when the PR with additional tests
-using `TypeUrl` and a PR to change `TypeUrl` =&gt; `TestTypeUrl` went in
-side by side and the cache was probably stale.
-
----
-
-**Commit Message:** ci: fix health check integration test compilation
-**Additional Description:** Fixes compilation for
-`health_check_integration_test` by switching `TypeUrl` to use new
-`TestTypeUrl`.
-**Risk Level:** Low
-**Testing:** CI
-**Docs Changes:** N/A
-**Release Notes:** N/A
-
----------
-
-Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6aa642c</div>
-                                        <div class="message">filter_chain_manager: prepare draining filter chains in advance (#40121)
-
-Additional Description: splitting some logic from #39990 for safe
-changes purposes. This change calculates the diff between filter chains
-of the new listener with previous one during the ``addFilterChains``
-process.
-Risk Level: medium
-Testing: unit test
-Docs Changes: none
-Release Notes: none
-Platform Specific Features: none
-
----------
-
-Signed-off-by: ohadvano &lt;49730675+ohadvano@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3333b8c</div>
-                                        <div class="message">router: deprecate flag shadow_policy_inherit_trace_sampling and remove legacy code paths (#40394)
-
-## Description
-
-This PR removes the deprecated reloadable flag
-`shadow_policy_inherit_trace_sampling` and cleans up the legacy paths.
-
-Fix https://github.com/envoyproxy/envoy/issues/40381
-
----
-
-**Commit Message:** router: deprecate flag
-shadow_policy_inherit_trace_sampling and remove legacy code paths
-**Additional Description:** Remove the deprecated reloadable flag
-`shadow_policy_inherit_trace_sampling` and cleans up the legacy paths.
-**Risk Level:** Low
-**Testing:** CI
-**Docs Changes:** N/A
-**Release Notes:** Added
-
-Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#468787d</div>
-                                        <div class="message">Update QUICHE from 377a484ce to a157f7072 (#40337)
-
-https://github.com/google/quiche/compare/377a484ce..a157f7072
-
-```
-$ git log 377a484ce..a157f7072 --date=short --no-merges --format="%ad %al %s"
-
-2025-07-21 quiche-dev Fix build error in Chromium
-2025-07-21 vasilvv Simplify the way bitrate adjuster provides bitrate feedback.
-2025-07-21 elburrito BlindSignAuth: Serialize `AndroidAttestationData` into an `Any` proto instead of using `PackFrom`. QUICHE uses lite protos and doesn't have reflection or descriptors.
-2025-07-21 abhisinghx Modify Masque Client to create a CONNECT-UDP-Bind client
-2025-07-18 martinduke Terminate MoQT subscription with TooFarBehind if largest group is abandoned and DELIVERY_TIMEOUT is infinite.
-2025-07-18 martinduke Update version number to MoQT draft-12.
-2025-07-18 martinduke Update MoQT AuthorizationTag parameter to draft-12.
-2025-07-17 martinduke Remove `kGroupDoesNotExist` Moqt status.
-2025-07-16 rch Remove unused method QuicSpdySession::CreateOutgoingUnidirectionalStream and QuicSpdySession::ShouldCreateOutgoingUnidirectionalStream.
-2025-07-16 vasilvv Use C++20 default operators in MoQT code.
-```
-
-&lt;!--
-!!!ATTENTION!!!
-
-If you are fixing *any* crash or *any* potential security issue, *do
-not*
-open a pull request in this repo. Please report the issue via emailing
-envoy-security@googlegroups.com where the issue will be triaged
-appropriately.
-Thank you in advance for helping to keep Envoy secure.
-
-!!!ATTENTION!!!
-
-For an explanation of how to fill out the fields, please see the
-relevant section
-in
-[PULL_REQUESTS.md](https://github.com/envoyproxy/envoy/blob/main/PULL_REQUESTS.md)
---&gt;
-
-Commit Message: Weekly merge.
-Additional Description: N/A
-Risk Level: Low
-Testing: Presubmits
-Docs Changes: N/A
-Release Notes: N/A
-Platform Specific Features: N/A
-
----------
-
-Signed-off-by: Vanessa Reimer &lt;vreimer@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3a34c1</div>
-                                        <div class="message">tests: rename TypeUrl to TestTypeUrl (#40342)
-
-Commit Message: tests: rename TypeUrl to TestTypeUrl
-Additional Description:
-Tests only - rename the type `TypeUrl` to `TestTypeUrl`.
-The reason is that we are going to introduce a TypeUrl class in
-[resource_name.h](https://github.com/envoyproxy/envoy/blob/main/source/common/config/resource_name.h)
-and it conflicts with the tests type.
-
-This was done by running `grep -rlZ "TypeUrl::get" test | xargs -0 sed
--i 's/TypeUrl::get/TestTypeUrl::get/g'`.
-
-Risk Level: low - tests only
-Testing: N/A
-Docs Changes: N/A
-Release Notes: N/A
-Platform Specific Features: N/A
-
----------
-
-Signed-off-by: Adi Suissa-Peleg &lt;adip@google.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0089fe6</div>
-                                        <div class="message">lua: adds filterState() on streamInfo() (#40023)
-
-## Description
-
-This PR adds support for accessing `filter_state` through the stream
-info API. This allows Lua scripts to safely access filter state data,
-with proper unpacking of **Any** messages into Lua tables. The
-implementation uses same building blocks as that of
-`dynamicTypedMetadata()` for which we added the protobuf conversion
-utils in the earlier PRs.
-
----
-
-**Commit Message:** lua: adds `filterState()` on `streamInfo()`
-**Additional Description:** Added a new ``filterState()`` on
-``streamInfo()`` which could be used to access the filter state from
-HTTP filters, such as the ExtProc, etc.
-**Risk Level:** Low
-**Testing:** Unit tests and integration tests added
-**Docs Changes:** Added
-**Release Notes:** Added
-
----------
-
-Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#add9533</div>
-                                        <div class="message">health_check: add request payload support for HTTP health checks (#40322)
-
-## Description
-
-This PR implements support for request payloads in HTTP health checks.
-Users would now be able to specify a request body to be sent during HTTP
-health checking using the existing send field in the `HttpHealthCheck`
-configuration.
-
-Fix https://github.com/envoyproxy/envoy/issues/40265
-
----
-
-**Commit Message:** health_check: add request payload support for HTTP
-health checks
-**Additional Description:** Added support for request payloads in HTTP
-health checks.
-**Risk Level:** Low
-**Testing:** Added Unit Tests
-**Docs Changes:** Added
-**Release Notes:** Added
-
----------
-
-Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
+                            </svg>
+                            No recent activity
                         </div>
                     </section>
                 </div>
@@ -1734,7 +1377,7 @@ Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2025, 00:17:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2025, 00:16:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
