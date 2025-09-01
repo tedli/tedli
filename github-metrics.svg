@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="847" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1207" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.track,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.post{align-items:flex-start}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            240 Commits
+                            239 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    5.15 GB used
+                                    5.16 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1324,6 +1324,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(44.199999999999996, 26)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -1336,11 +1343,368 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
-                            </svg>
-                            No recent activity
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 97 commits in
+                                        <span class="repo">tedli/envoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c55a1ed</div>
+                                        <div class="message">Add missing includes (#40722)
+
+Prep for future QUICHE update.
+
+Risk Level: none
+Testing: unit tests
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#490297a</div>
+                                        <div class="message">Replace ProtobufWkt with Protobuf namespace (#40699)
+
+This is a large but trivial change.
+Remove ProtobufWkt and use Protobuf namespace instead. These namespaces
+were aliases to the same ::google::protobuf namespace. Separate aliases
+just increase confusion as they were used interchangeably and their
+benefit no longer outweighs the mess they create.
+
+The main change is in `source/common/protobuf/protobuf.h` the rest is
+search and replace of ProtobufWkt to Protobuf
+
+Risk Level: none
+Testing: unit tests
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+---------
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0464482</div>
+                                        <div class="message">mobile: use AndroidNetworkMonitorV2 (#40625)
+
+Commit Message: Add a new API setUseV2NetworkMonitor() to Cronvoy and
+Kotlin engine builder which will configure the android engine to switch
+to the new network monitor implementation `AndroidNetworkMonitorV2`
+which reports not just the default network change but also connect and
+disconnect events on non-default networks. These signals will be needed
+by HTTP/3 connection migration.
+
+While using AndroidNetworkMonitorV2, InternalEngine will handle default
+network changes slightly differently. It will delegate the signals to
+ConnectivityManagerImpl in the current thread which will deduplicate the
+signals and update the preferred network and post a callback to the
+Envoy network thread to reset HTTP brokenness, refresh DNS and drain
+connections. ConnectivityManagerImpl also keeps track of all connected
+networks.
+
+Additional Description: Expose ConnectivityManagerImpl to InternalEngine
+instead of the ConnectivityManager interface. This will allow its
+network_state_ to be non-static and accessed via a handle to the
+ConnectivityManagerImpl object.
+
+Risk Level: low, new feature is behind a new API
+Testing: new unit tests added for ConnectivityManagerImpl and new
+integration tests added
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: listen to Android network signals.
+
+---------
+
+Signed-off-by: Dan Zhang &lt;danzh@google.com&gt;
+Co-authored-by: Dan Zhang &lt;danzh@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac40704</div>
+                                        <div class="message">mobile/ci: Temporarily disable jobs starting the iOS Simulator pt 2 (#40717)
+
+This is a follow-up to https://github.com/envoyproxy/envoy/pull/40715
+
+Signed-off-by: Ali Beyad &lt;abeyad@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#150411a</div>
+                                        <div class="message">mobile/ci: Temporarily disable running the iOS simulator (#40715)
+
+CI is currently broken, as the `Mobile/iOS` and `Mobile/Release
+Validation` jobs are failing while trying to start the iOS Simulator
+18.1:
+```
+INFO: Streaming build results to: https://envoy.cluster.engflow.com/invocation/e45b583d-15a6-431a-83f9-32b8b2e73dbb
+2025-08-13 21:16:13.962 INFO Creating simulator, device=iPhone 16 Pro Max, version=18.1
+Invalid runtime: com.apple.CoreSimulator.SimRuntime.iOS-18-1
+2025-08-13 21:16:21.214 ERROR ['/Applications/Xcode_16.1.app/Contents/Developer/usr/bin/simctl', 'create', 'TestDevice', 'iPhone 16 Pro Max', 'com.apple.CoreSimulator.SimRuntime.iOS-18-1'] exited with error code 145
+```
+
+CI is still building the iOS binary so we aren't losing too much build
+coverage.
+
+---------
+
+Signed-off-by: Ali Beyad &lt;abeyad@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49c5c95</div>
+                                        <div class="message">h2m: add optional stats to header-to-metadata filter (#40464)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6aca78</div>
+                                        <div class="message">cleanup: const init of a variable in route_config_provider_manager (#40681)
+
+Commit Message: cleanup: const init of a variable in
+route_config_provider_manager
+Additional Description:
+Minor cleanup after #40660 - const init of a local variable.
+
+Risk Level: low
+Testing: N/A
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+
+Signed-off-by: Adi Suissa-Peleg &lt;adip@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd04459</div>
+                                        <div class="message">Remove QUIC idle_network_timeout upper bound. (#40251)
+
+Commit Message: Remove QUIC idle_network_timeout upper bound. For a
+non-front-line proxy, a longer value can be useful.
+Risk Level: None
+
+---------
+
+Signed-off-by: Haoyue Wang &lt;haoyuewang@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36648b4</div>
+                                        <div class="message">should not terminate CONNECT (#40706)
+
+&lt;!--
+!!!ATTENTION!!!
+
+If you are fixing *any* crash or *any* potential security issue, *do
+not*
+open a pull request in this repo. Please report the issue via emailing
+envoy-security@googlegroups.com where the issue will be triaged
+appropriately.
+Thank you in advance for helping to keep Envoy secure.
+
+!!!ATTENTION!!!
+
+For an explanation of how to fill out the fields, please see the
+relevant section
+in
+[PULL_REQUESTS.md](https://github.com/envoyproxy/envoy/blob/main/PULL_REQUESTS.md)
+--&gt;
+
+Commit Message: this seems to be a mistake in
+https://github.com/envoyproxy/envoy/pull/39748, should not terminate
+CONNECT here.
+Additional Description:
+Risk Level:
+Testing:
+Docs Changes:
+Release Notes:
+Platform Specific Features:
+[Optional Runtime guard:]
+[Optional Fixes #Issue]
+[Optional Fixes commit #PR or SHA]
+[Optional Deprecated:]
+[Optional [API
+Considerations](https://github.com/envoyproxy/envoy/blob/main/api/review_checklist.md):]
+
+Signed-off-by: zirain &lt;zirain2009@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2a23f1</div>
+                                        <div class="message">Add Dan Zhang as EM and QUIC maintainer (#40701)
+
+Risk Level: none
+Testing: n/a
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad978b6</div>
+                                        <div class="message">Remove unused streaming_shadows_ variable (#40700)
+
+Risk Level: none
+Testing: unit tests
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d70d7c</div>
+                                        <div class="message">Replace @krajshiva with @tgschwen on security team (#40702)
+
+Due to Google internal team changes, Thomas will be taking over Kirti's
+duties on the security team.
+
+Risk Level: none
+Testing: n/a
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f712ba4</div>
+                                        <div class="message">HTTP: Add request per connection tracking and metrics (#40266)
+
+Currently, Envoy lacks visibility into connection efficiency across HTTP
+protocols, making it difficult to detect cases where connections serve
+very few requests, leading to increased latency from repeated connection
+establishment. Existing metrics only provide broad averages between
+total requests and connections, obscuring distribution patterns and
+real-time fluctuations in connection reuse. This commit introduces
+universal per-connection request tracking that emits histogram metrics
+immediately when connections close, providing actionable insights into
+connection efficiency for all HTTP protocols and helping operators
+identify misconfigurations or excessive connection churn.
+
+Signed-off-by: premnath.nenavath &lt;premnath.nenavath@gomotive.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10b7a4c</div>
+                                        <div class="message">bugfix: tls_inspector times out (#40544)
+
+Fix a bug where the `tls_inspector` times out when used with the
+`http_inspector` and it gets a large client hello.
+
+Envoy was set up with both `http_inspector` and `tls_inspector` present.
+We noticed `tls_inspector` timing out when receiving a large client
+hello (&gt;8 KB).
+
+Signed-off-by: Yuval Kohavi &lt;yuval.kohavi@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85e2494</div>
+                                        <div class="message">test: removing a test code that is never executed (#40683)
+
+Commit Message: test: removing a test code that is never executed
+Additional Description:
+Removing the test `RouterShadowingTest/BufferingShadowWithClusterHeader`
+that is always skipped.
+This was introduced in #40659.
+
+Risk Level: low - tests only
+Testing: N/A
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+
+Signed-off-by: Adi Suissa-Peleg &lt;adip@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#276f1a0</div>
+                                        <div class="message">docs: removes 'experimental' from dynamic_modules.rst (#40688)
+
+Commit Message: docs: removes 'experimental' from dynamic_modules.rst
+Additional Description:
+
+The dynamic_modules feature is no longer "experimental" after two Envoy
+stable releases. It has started being used in production as well, so the
+word "experimental" is not appropriate. Otherwise, people might think
+that there might be a breaking change in API, etc as opposed to the fact
+that it won't happen.
+
+Risk Level: n/a
+Testing: n/a
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+Signed-off-by: Takeshi Yoneda &lt;t.y.mathetake@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#057f573</div>
+                                        <div class="message">H/2 codec: remove unused dependencies (#40685)
+
+Risk Level: none
+Testing: n/a
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#501a109</div>
+                                        <div class="message">xds: deprecate flag xds_prevent_resource_copy and remove legacy code paths (#40676)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14410a9</div>
+                                        <div class="message">http: deprecate flag local_reply_traverses_filter_chain_after_1xx and remove legacy code paths (#40665)
+
+## Description
+
+This PR removes the deprecated reloadable flag
+`local_reply_traverses_filter_chain_after_1xx` and cleans up the legacy
+paths.
+
+Fix https://github.com/envoyproxy/envoy/issues/40377
+
+---
+
+**Commit Message:** router: deprecate flag
+local_reply_traverses_filter_chain_after_1xx and remove legacy code
+paths
+**Additional Description:** Remove the deprecated reloadable flag
+`local_reply_traverses_filter_chain_after_1xx` and cleans up the legacy
+paths.
+**Risk Level:** Low
+**Testing:** CI
+**Docs Changes:** N/A
+**Release Notes:** Added
+
+Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f42410</div>
+                                        <div class="message">websocket: allow retry for 4xx and 5xx in the response (#40303)
+
+To unblock https://github.com/envoyproxy/envoy/issues/9961
+
+it will let the 4xx and 5xx response go through the filter chain. 
+
+Commit Message:
+Additional Description:
+Risk Level:
+Testing:
+Docs Changes:
+Release Notes:
+Platform Specific Features:
+
+---------
+
+Signed-off-by: Boteng Yao &lt;boteng@google.com&gt;
+Co-authored-by: Garrett Heel &lt;garrettheel@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
                         </div>
                     </section>
                 </div>
@@ -1365,7 +1729,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2025, 00:14:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Sept 2025, 00:15:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
