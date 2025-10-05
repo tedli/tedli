@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="847" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1207" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1318,6 +1318,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1331,11 +1336,900 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
-                            </svg>
-                            No recent activity
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 202 commits in
+                                        <span class="repo">tedli/envoy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#197038e</div>
+                                        <div class="message">generic proxy add upstream span error tag (#40970)
+
+Commit Message: generic proxy add upstream span error tag
+Additional Description: N/A
+Risk Level: low
+Testing: ut
+Docs Changes: N/A
+Release Notes: N/A
+
+Signed-off-by: wangkai19 &lt;wangkai19@corp.netease.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc30831</div>
+                                        <div class="message">deps: Update absl to 20250814.0 (#41050)
+
+Risk Level: low
+Testing: unit tests
+Docs Changes: n/a
+Release Notes: n/a
+Platform Specific Features: n/a
+
+Signed-off-by: Yan Avlasov &lt;yavlasov@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d470caf</div>
+                                        <div class="message">odcds: add a test that ODCDS with EDS using xds-federation works (#41041)
+
+Commit Message: odcds: add a test that ODCDS with EDS using
+xds-federation works
+
+Signed-off-by: Adi Suissa-Peleg &lt;adip@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51a47f6</div>
+                                        <div class="message">stats: allow changing nbins in circllhist (#40991)
+
+Change-Id: I84058d188f172b636c5c864fb387395d3f443663
+
+Commit Message: Allow changing default bin sizes for histograms. The
+underlying library pre-allocates fixed bucket bins for every time
+series, which makes Envoy pre-allocate `NBIN * 2 * NCPU * 10` bytes per
+time series, which amounts to 128 KB on 64 cores. Decreasing `NBIN`
+would be helpful for sparse time series but incurs additional `malloc`.
+The library grows the bins by increments of 100. This is the default
+memory layout:
+
+```c
+struct histogram {
+  uint16_t allocd; //!&lt; number of allocated bv pairs
+  ...
+  struct hist_bv_pair *bvs; //!&lt; pointer to bv-pairs
+};
+struct hist_bv_pair {
+  hist_bucket_t bucket;
+  uint64_t count;
+}__attribute__((packed));
+typedef struct hist_bucket {
+  int8_t val; //!&lt; value * 10
+  int8_t exp; //!&lt; exponent -128 .. 127
+} hist_bucket_t;
+
+```
+Risk Level: low
+Testing: added, but hard to validate since there's no public accessor in
+the library
+Docs Changes: not sure if needed
+Release Notes: not sure if needed
+
+---------
+
+Signed-off-by: Kuat Yessenov &lt;kuat@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c297478</div>
+                                        <div class="message">quic: IWYU in envoy_quic_utils.cc (#41042)
+
+&lt;!--
+!!!ATTENTION!!!
+
+If you are fixing *any* crash or *any* potential security issue, *do
+not*
+open a pull request in this repo. Please report the issue via emailing
+envoy-security@googlegroups.com where the issue will be triaged
+appropriately.
+Thank you in advance for helping to keep Envoy secure.
+
+!!!ATTENTION!!!
+
+For an explanation of how to fill out the fields, please see the
+relevant section
+in
+[PULL_REQUESTS.md](https://github.com/envoyproxy/envoy/blob/main/PULL_REQUESTS.md)
+--&gt;
+
+Commit Message: quic: IWYU in envoy_quic_utils.cc
+Additional Description:
+Risk Level: Low
+Testing: Does it compile?
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+
+---------
+
+Signed-off-by: Dan McArdle &lt;dmcardle@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60b8933</div>
+                                        <div class="message">quic: Clarify that EnvoyQuicServerConnection never owns the passed-in Writer (#41040)
+
+Clarify that EnvoyQuicServerConnection never owns the passed-in Writer
+and simplify the constructor and `wrapWriter` method accordingly.
+
+Risk Level: none
+Testing: existing 
+Docs Changes: none
+Release Notes: none
+
+---------
+
+Signed-off-by: Ryan Hamilton &lt;rch@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a5db8a</div>
+                                        <div class="message">network: add additional methods on connection management interface (#40302)
+
+## Description
+
+This PR adds new virtual methods to the `Network::Connection` interface
+to support socket ownership transfer which we need for the incoming
+reverse connections feature. We are adding a new method `getSocket()`
+that provides `const` access to connection socket reference.
+
+---
+**Commit Message:** network: add additional methods on connection
+management interface
+**Additional Description:** Adds new virtual methods to the
+`Network::Connection` interface to support socket ownership transfer
+which we need for the incoming reverse connections feature.
+**Risk Level:** Low
+**Testing:** Added Unit Tests
+**Docs Changes:** N/A
+**Release Notes:** N/A
+
+---------
+
+Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f7d63e</div>
+                                        <div class="message">changelog: Add for docker/distroless fix (#40980)
+
+Signed-off-by: Ryan Northey &lt;ryan@synca.io&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98bf5de</div>
+                                        <div class="message">dns: adding c-ares DNS resolving integration test under extension specific folder (#40987)
+
+This is a follow up of https://github.com/envoyproxy/envoy/pull/40938
+It's the 7th step to address:
+https://github.com/envoyproxy/envoy/issues/39900
+
+While we are trying to remove c-ares from integration tests in different
+components, this PR adds back a couple c-ares integration test cases
+under c-ares extension to make sure c-ares DNS resolving is covered in
+integration test.
+
+---------
+
+Signed-off-by: Yanjun Xiang &lt;yanjunxiang@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#357f4b1</div>
+                                        <div class="message">bootstrap: add reverse tunnel socket interface extension for downstream connections (#40474)
+
+## Description
+
+**Commit Message:** bootstrap: add reverse tunnel socket interface
+extension for downstream connections
+**Additional Description:** 
+
+This PR implements the downstream socket interface components required
+on initiator envoy to create reverse connections to upstream envoy.
+
+[Github Issue](https://github.com/envoyproxy/envoy/issues/33320)
+
+### Architecture Overview
+
+Here are the major components:
+
+### 1. Bootstrap Extension Registration
+- `ReverseTunnelInitiatorExtension` is registered as a bootstrap
+extension on the initiator Envoy instance
+- Thread local slot is set up in
+`ReverseTunnelInitiatorExtension::onWorkerThreadInitialized()`,
+initializing components that can be retrieved thread locally later
+- Collects, maintains and provides APIs for stats collection and
+cross-worker aggregation
+
+### 2. Thread-Local Data Management
+- Thread local data management is via a `DownstreamSocketThreadLocal`
+containing the per-worker thread dispatcher
+
+[Reverse Connection Listener:
+Diagram](https://lucid.app/lucidchart/b15fca72-908f-49a8-ba1e-9d8c95ce66cf/edit?viewport_loc=-308%2C-164%2C3205%2C1826%2C0_0&amp;invitationId=inv_74e8ae30-55bd-4ac5-a3e2-27576dbe5956)
+
+### 3. Custom Socket Interface (`ReverseTunnelInitiator`)
+- Custom socket interface that creates `ReverseConnectionIOHandle`
+instances instead of regular sockets
+- When a reverse connection listener is configured, the
+`ReverseConnectionResolver` extracts reverse connection metadata from
+the listener's address config and creates a `ReverseConnectionAddress`
+- The `ReverseConnectionResolver` parses the `rc://` address format and
+creates a `ReverseConnectionAddress` with the appropriate reverse
+connection configuration, enabling the custom socket interface to be
+used for establishing reverse tunnels to upstream clusters.
+- The `ReverseConnectionAddress` returns the `ReverseTunnelInitiator` in
+its `socketInterface()` method, allowing the custom interface to be used
+when creating sockets.
+
+
+[Ref](https://docs.google.com/document/d/1rH91TgPX7JbTcWYacCpavY4hiA1ce1yQE4mN3XZSewo/edit?tab=t.0)
+
+### 4. Reverse Connection Workflow (`ReverseConnectionIOHandle`)
+- Triggers reverse connection establishment when `initializeFileEvent()`
+is called on a worker thread
+- Sets up pipe-based trigger mechanism to wake up `accept()` when
+connections are established
+- Initiates TCP connections to upstream clusters and wraps each
+connection in a `RCConnectionWrapper`
+
+### 5. Connection Wrapper (`RCConnectionWrapper`)
+- Abstracts connection lifecycle and handshake process
+- Writes HTTP POST messages with reverse connection requests on existing
+TCP connections to upstream clusters
+
+[Reverse Connection
+Handshake](https://lucid.app/lucidchart/48be1dfd-2a26-44c4-9652-46f9d90e0ffb/edit?viewport_loc=-228%2C-73%2C1795%2C1022%2C0_0&amp;invitationId=inv_77224f3c-8f2a-468e-b80f-3a8415930c8f)
+
+- Adds `SimpleConnReadFilter` to read responses from upstream
+- When connection is accepted, wakes up `accept()` by writing to trigger
+pipe and pushes socket to `established_connections_` queue
+
+### 6. Connection Acceptance (`DownstreamReverseConnectionIOHandle`)
+- In `accept()`, pops sockets from `established_connections_` queue and
+duplicates them
+- Creates `DownstreamReverseConnectionIOHandle` over the socket and
+returns it to be passed through the filter chain
+- Provides RAII-based lifecycle management - when the downstream
+connection is closed, it notifies the parent `ReverseConnectionIOHandle`
+to mark it closed so that the next iteration of connection maintenance
+can re-initiate it
+---
+
+**Risk Level:** Low
+**Testing:** Unit Tests
+**Docs Changes:** Added
+**Release Notes:** Added
+
+Signed-off-by: Basundhara Chakrabarty
+[basundhara.c@nutanix.com](mailto:basundhara.c@nutanix.com)
+Co-authored-by: Rohit Agrawal
+[rohit.agrawal@databricks.com](mailto:rohit.agrawal@databricks.com)
+Co-authored-by: Arun Vasudevan
+[Arun.Vasudev@nutanix.com](mailto:Arun.Vasudev@nutanix.com)
+Co-authored-by: Tejas Sangol
+[tejas.sangol@nutanix.com](mailto:tejas.sangol@nutanix.com)
+Co-authored-by: Aditya Jaltade
+[aditya.jaltade@nutanix.com](mailto:aditya.jaltade@nutanix.com)
+
+---------
+
+Signed-off-by: Basundhara Chakrabarty &lt;basundhara.c@nutanix.com&gt;
+Signed-off-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;
+Co-authored-by: Rohit Agrawal &lt;rohit.agrawal@databricks.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e64f20</div>
+                                        <div class="message">async stream options: use shared pointer for pased retry policy (#41012)
+
+Commit Message: async stream options: use shared pointer for pased retry
+policy
+Additional Description:
+
+This PR updated the StreamOptions. The shared pointer of RetryPolicy is
+used rather than a reference to avoid potential lifetime problem.
+
+This also fixed a potential bug at the `Http::AsyncStreamImpl`. At
+there, if the parsing of proto retry policy is field, will result in
+core dump.
+
+Risk Level: low.
+Testing: n/a.
+Docs Changes: n/a.
+Release Notes: n/a.
+Platform Specific Features: n/a.
+
+Signed-off-by: WangBaiping &lt;wbphub@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb8ea89</div>
+                                        <div class="message">tracing: resolve potential lifetime problem of zipkin tracer (#41036)
+
+The lifetime problem is horrible. Note, basically, when we use the
+ThreadLocalObject, we cannot refer anything in the man thread that may
+be destroyed before the ThreadLocalObject. Or there maybe dangling
+reference.
+
+This PR fix this potential problem in the zipkin tracer to make sure all
+the data referred by the ThreadLocalObject and InitializeCb will have
+lifetime no shorter than the ThreadLocalObject and InitializeCb selves.
+
+Risk Level: low. no logic update be use shard pointer to extend lifetime
+of some objects.
+Testing: n/a.
+Docs Changes: n/a.
+Release Notes: n/a.
+Platform Specific Features: n/a.
+
+---------
+
+Signed-off-by: WangBaiping &lt;wbphub@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b0083a</div>
+                                        <div class="message">build(deps): bump github/codeql-action from 3.29.2 to 3.30.2 (#41037)
+
+Bumps [github/codeql-action](https://github.com/github/codeql-action)
+from 3.29.2 to 3.30.2.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/github/codeql-action/releases"&gt;github/codeql-action's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v3.30.2&lt;/h2&gt;
+&lt;h1&gt;CodeQL Action Changelog&lt;/h1&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/github/codeql-action/releases"&gt;releases
+page&lt;/a&gt; for the relevant changes to the CodeQL CLI and language
+packs.&lt;/p&gt;
+&lt;h2&gt;3.30.2 - 09 Sep 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a bug which could cause language autodetection to fail. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3084"&gt;#3084&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Experimental: The &lt;code&gt;quality-queries&lt;/code&gt; input that was added
+in &lt;code&gt;3.29.2&lt;/code&gt; as part of an internal experiment is now
+deprecated and will be removed in an upcoming version of the CodeQL
+Action. It has been superseded by a new &lt;code&gt;analysis-kinds&lt;/code&gt;
+input, which is part of the same internal experiment. Do not use this in
+production as it is subject to change at any time. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3064"&gt;#3064&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See the full &lt;a
+href="https://github.com/github/codeql-action/blob/v3.30.2/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+for more information.&lt;/p&gt;
+&lt;h2&gt;v3.30.1&lt;/h2&gt;
+&lt;h1&gt;CodeQL Action Changelog&lt;/h1&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/github/codeql-action/releases"&gt;releases
+page&lt;/a&gt; for the relevant changes to the CodeQL CLI and language
+packs.&lt;/p&gt;
+&lt;h2&gt;3.30.1 - 05 Sep 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update default CodeQL bundle version to 2.23.0. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3077"&gt;#3077&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See the full &lt;a
+href="https://github.com/github/codeql-action/blob/v3.30.1/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+for more information.&lt;/p&gt;
+&lt;h2&gt;v3.30.0&lt;/h2&gt;
+&lt;h1&gt;CodeQL Action Changelog&lt;/h1&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/github/codeql-action/releases"&gt;releases
+page&lt;/a&gt; for the relevant changes to the CodeQL CLI and language
+packs.&lt;/p&gt;
+&lt;h2&gt;3.30.0 - 01 Sep 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Reduce the size of the CodeQL Action, speeding up workflows by
+approximately 4 seconds. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3054"&gt;#3054&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See the full &lt;a
+href="https://github.com/github/codeql-action/blob/v3.30.0/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+for more information.&lt;/p&gt;
+&lt;h2&gt;v3.29.11&lt;/h2&gt;
+&lt;h1&gt;CodeQL Action Changelog&lt;/h1&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/github/codeql-action/releases"&gt;releases
+page&lt;/a&gt; for the relevant changes to the CodeQL CLI and language
+packs.&lt;/p&gt;
+&lt;h2&gt;3.29.11 - 21 Aug 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update default CodeQL bundle version to 2.22.4. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3044"&gt;#3044&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See the full &lt;a
+href="https://github.com/github/codeql-action/blob/v3.29.11/CHANGELOG.md"&gt;CHANGELOG.md&lt;/a&gt;
+for more information.&lt;/p&gt;
+&lt;h2&gt;v3.29.10&lt;/h2&gt;
+&lt;h1&gt;CodeQL Action Changelog&lt;/h1&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/github/codeql-action/releases"&gt;releases
+page&lt;/a&gt; for the relevant changes to the CodeQL CLI and language
+packs.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/github/codeql-action/blob/main/CHANGELOG.md"&gt;github/codeql-action's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;CodeQL Action Changelog&lt;/h1&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/github/codeql-action/releases"&gt;releases
+page&lt;/a&gt; for the relevant changes to the CodeQL CLI and language
+packs.&lt;/p&gt;
+&lt;h2&gt;[UNRELEASED]&lt;/h2&gt;
+&lt;p&gt;No user facing changes.&lt;/p&gt;
+&lt;h2&gt;3.30.2 - 09 Sep 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed a bug which could cause language autodetection to fail. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3084"&gt;#3084&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Experimental: The &lt;code&gt;quality-queries&lt;/code&gt; input that was added
+in &lt;code&gt;3.29.2&lt;/code&gt; as part of an internal experiment is now
+deprecated and will be removed in an upcoming version of the CodeQL
+Action. It has been superseded by a new &lt;code&gt;analysis-kinds&lt;/code&gt;
+input, which is part of the same internal experiment. Do not use this in
+production as it is subject to change at any time. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3064"&gt;#3064&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.30.1 - 05 Sep 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update default CodeQL bundle version to 2.23.0. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3077"&gt;#3077&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.30.0 - 01 Sep 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Reduce the size of the CodeQL Action, speeding up workflows by
+approximately 4 seconds. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3054"&gt;#3054&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.29.11 - 21 Aug 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update default CodeQL bundle version to 2.22.4. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3044"&gt;#3044&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.29.10 - 18 Aug 2025&lt;/h2&gt;
+&lt;p&gt;No user facing changes.&lt;/p&gt;
+&lt;h2&gt;3.29.9 - 12 Aug 2025&lt;/h2&gt;
+&lt;p&gt;No user facing changes.&lt;/p&gt;
+&lt;h2&gt;3.29.8 - 08 Aug 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix an issue where the Action would autodetect unsupported languages
+such as HTML. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3015"&gt;#3015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.29.7 - 07 Aug 2025&lt;/h2&gt;
+&lt;p&gt;This release rolls back 3.29.6 to address issues with language
+autodetection. It is identical to 3.29.5.&lt;/p&gt;
+&lt;h2&gt;3.29.6 - 07 Aug 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;cleanup-level&lt;/code&gt; input to the &lt;code&gt;analyze&lt;/code&gt;
+Action is now deprecated. The CodeQL Action has written a limited amount
+of intermediate results to the database since version 2.2.5, and now
+automatically manages cleanup. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2999"&gt;#2999&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Update default CodeQL bundle version to 2.22.3. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/3000"&gt;#3000&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.29.5 - 29 Jul 2025&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update default CodeQL bundle version to 2.22.2. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2986"&gt;#2986&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/d3678e237b9c32a6c9bffb3315c335f976f3549f"&gt;&lt;code&gt;d3678e2&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/3090"&gt;#3090&lt;/a&gt;
+from github/update-v3.30.2-d7a501da0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/14bbb6a806d8585d3ef2d8b4bfdf571e840a0d90"&gt;&lt;code&gt;14bbb6a&lt;/code&gt;&lt;/a&gt;
+Add changelog entries&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/a879d033687e011480e4d305b657b50d8f099ef1"&gt;&lt;code&gt;a879d03&lt;/code&gt;&lt;/a&gt;
+Update changelog for v3.30.2&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/d7a501da0195366a45a932783bb4b1817372bf20"&gt;&lt;code&gt;d7a501d&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/3085"&gt;#3085&lt;/a&gt;
+from github/mbg/multi-language-repo/gitignore&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/c90f0747e2cb91ce3c0ea059dbaeddcb1e3fa3ab"&gt;&lt;code&gt;c90f074&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/3087"&gt;#3087&lt;/a&gt;
+from github/dependabot/npm_and_yarn/npm-1cf7fedfcf&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/d8df826a796178a1efe64989b0b6cbe80e4e5291"&gt;&lt;code&gt;d8df826&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/3086"&gt;#3086&lt;/a&gt;
+from github/mbg/docs/required-checks&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/23419de6bd3b79d4c9df2d3bab19a729d78c6901"&gt;&lt;code&gt;23419de&lt;/code&gt;&lt;/a&gt;
+Rebuild&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/7d8e1e924fde76f1a52162cd5e4580a5aba0ce18"&gt;&lt;code&gt;7d8e1e9&lt;/code&gt;&lt;/a&gt;
+Bump the npm group with 5 updates&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/76a3cccaa42b7fc2d93f3357903e8ea1bc7d73f9"&gt;&lt;code&gt;76a3ccc&lt;/code&gt;&lt;/a&gt;
+Clarify instructions for updating PR checks for PRs&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/01fd48d5b6f834e5d6914aff385ab88660dbbd20"&gt;&lt;code&gt;01fd48d&lt;/code&gt;&lt;/a&gt;
+Remove comment about &lt;code&gt;main&lt;/code&gt; from
+&lt;code&gt;update-required-checks.sh&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/github/codeql-action/compare/181d5eefc20863364f96762470ba6f862bdef56b...d3678e237b9c32a6c9bffb3315c335f976f3549f"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=github/codeql-action&amp;package-manager=github_actions&amp;previous-version=3.29.2&amp;new-version=3.30.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a2a7519</div>
+                                        <div class="message">Update QUICHE from 4f1f0fcea to 6caf568e7 (#41035)
+
+https://github.com/google/quiche/compare/4f1f0fcea..6caf568e7
+
+```
+$ git log 4f1f0fcea..6caf568e7 --date=short --no-merges --format="%ad %al %s"
+
+2025-09-09 rch Automated g4 rollback of changelist 802848539.
+2025-09-08 martinduke Fix asan failure in MoqtTestMessage.
+2025-09-08 quiche-dev Enabling rolled out flags.
+2025-09-08 danzh Enforce `QuicConnectionMigrationManager` and `QuicSpdyClientSessionWithMigration` to use QuicForceBlockablePacketWriter during construction.
+2025-09-05 quiche-dev Fix 3 ClangInliner findings: * The use of this symbol has been deprecated and marked for inlining. The function being deprecated is absl::WriterMutexLock::WriterMutexLock. (3 times)
+2025-09-05 martinduke Add support for MOQT Authority and Implementation parameters.
+2025-09-05 martinduke Roll to MoQT draft-14, with core wire image changes.
+2025-09-05 martinduke Update MoQT Session/Application APIs to support relays.
+2025-09-04 jprat Remove DCHECK in QuicPingManager.
+2025-09-04 quiche-dev [quic] Clean up single-arg `testing::Invoke()`s in `{moqt,qbone,tools}/`
+2025-09-04 quiche-dev [quiche] Clean up single-arg `testing::Invoke()`s
+2025-09-04 quiche-dev [quic] Clean up single-arg `testing::Invoke()`s in rest of `core/`
+2025-09-04 quiche-dev [quic] Clean up single-arg `testing::Invoke()`s in `core/quic_[d-z]*`
+2025-09-04 quiche-dev [quic] Clean up single-arg `testing::Invoke()`s in `core/quic_[a-c]*`
+2025-09-03 quiche-dev Fix 14 ClangInliner findings: * The use of this symbol has been deprecated and marked for inlining. The function being deprecated is absl::WriterMutexLock::WriterMutexLock. (8 times) * The use of this symbol has been deprecated and marked for inlining. The function being deprecated is absl::ReaderMutexLock::ReaderMutexLock. (6 times)
+2025-09-03 martinduke Catch up on MoQT session error codes to draft-14.
+```
+
+Signed-off-by: Ryan Hamilton &lt;rch@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b7fe64</div>
+                                        <div class="message">Replace c-ares with getaddrinfo DNS resolver in DNS filter integration test (#41031)
+
+This is a follow up of https://github.com/envoyproxy/envoy/pull/40987
+It's the 8th step to address:
+https://github.com/envoyproxy/envoy/issues/39900
+
+Signed-off-by: Yanjun Xiang &lt;yanjunxiang@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#398d23e</div>
+                                        <div class="message">tls: Const-correct some uses of X509 API (#41022)
+
+Many of these APIs should be returning const pointers, but return
+non-const because legacy callers store them in the wrong variables. Fix
+some of these callers. Also in some cases exposed structs mean the
+compiler doesn't check const-ness, but it's still good to tag variables
+as const.
+
+In doing so, this fixes a deeper bug in one of the tests: there is no
+guarantee that ASN1_STRINGs are NUL-terminated, yet this code was
+assuming they were. See CVE-2021-3712. Fortunately, this was just in
+test code, or Envoy would have its own instance of that CVE.
+
+(ASN1_STRING_get0_data is the same as ASN1_STRING_data except it acts on
+a const pointer.)
+
+Signed-off-by: David Benjamin &lt;davidben@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73535ee</div>
+                                        <div class="message">Dns filter: Support bootstrap default DNS resolver config if filter client_config is missing (#41006)
+
+This is to address: https://github.com/envoyproxy/envoy/issues/41000
+
+This PR enables customized DNS resolver if dns filter client_config is
+missing.
+
+---------
+
+Signed-off-by: Yanjun Xiang &lt;yanjunxiang@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e98d22f</div>
+                                        <div class="message">xds-federation: introduce OD-CDS xds-federation support (#40988)
+
+Commit Message: xds-federation: introduce OD-CDS xds-federation support
+Additional Description:
+
+This PR introduces OD-CDS xds-Federation support. The implementation
+uses a new OD-CDS subscription management on the main thread, that is
+simpler than the former (issues subscriptions directly using the
+xDS-manager subscription function), and doesn't need to maintain the
+state of whether the first request was sent or not.
+It does so by allowing each subscription be a singleton subscription on
+the component side (the gRPC-mux to the xds-Federation server will
+ensure that a single subscription message is sent to the server). This
+approach handles some bugs that were detected for the non-xDS-TP based
+OD-CDS implementation.
+The plan is first to use this implementation for xDS-TP based resources,
+and when it is validated in production, move the ADS and the
+specific-config-source paths to use the new implementation/model.
+
+Apologies for the large PR, but the number of tests that was needed here
+is quite large.
+
+Risk Level: low - only for xDS-TP based config sources and it is guarded
+by the
+`envoy.reloadable_features.xdstp_based_config_singleton_subscriptions`
+runtime guard which is currently disabled.
+Testing: Added both unit-tests and integration tests
+Docs Changes: N/A (until the entire xDS-TP based config sources support
+is done).
+Release Notes: N/A (until the entire xDS-TP based config sources support
+is done).
+Platform Specific Features: N/A
+
+---------
+
+Signed-off-by: Adi Suissa-Peleg &lt;adip@google.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf26a92</div>
+                                        <div class="message">http-tap: gracefully handle request termination (#40907)
+
+Commit Message: http-tap: gracefully handle request termination
+Additional Description:
+Steps to reproduce the issue and backstrace are awailable in the ticket.
+Additionally I've recorded sequence of method calls in TapFilter with
+short header and large header for comparison. Issue is caused because
+request headers were accessed without
+`HttpPerRequestTapperImpl::onRequestHeaders` being called.
+
+&lt;details&gt;
+   &lt;summary&gt;Short header (successfull) call sequence&lt;/summary&gt;
+   
+```
+#0  0x000055555c422214 in Envoy::Extensions::HttpFilters::TapFilter::TapFilterFactory::createFilterFactoryFromProtoTyped(envoy::extensions::filters::http::tap::v3::Tap const&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;, Envoy::Server::Configuration::FactoryContext&amp;)::$_0::operator()(Envoy::Http::FilterChainFactoryCallbacks&amp;) const ()
+#0  0x000055555c425174 in Envoy::Extensions::HttpFilters::TapFilter::Filter* std::__1::__construct_at[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::Filter, std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::FilterConfig&gt; const&amp;, Envoy::Extensions::HttpFilters::TapFilter::Filter*&gt;(Envoy::Extensions::HttpFilters::TapFilter::Filter*, std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::FilterConfig&gt; const&amp;) ()
+#0  0x000055555c4251a4 in Envoy::Extensions::HttpFilters::TapFilter::Filter* std::__1::construct_at[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::Filter, std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::FilterConfig&gt; const&amp;, Envoy::Extensions::HttpFilters::TapFilter::Filter*&gt;(Envoy::Extensions::HttpFilters::TapFilter::Filter*, std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::FilterConfig&gt; const&amp;) ()
+#0  0x000055555c425224 in Envoy::Extensions::HttpFilters::TapFilter::Filter::Filter(std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::FilterConfig&gt;) ()
+#0  0x000055555c42ee44 in Envoy::Extensions::HttpFilters::TapFilter::Filter::setDecoderFilterCallbacks(Envoy::Http::StreamDecoderFilterCallbacks&amp;) ()
+#0  0x000055555c42e4c4 in Envoy::Extensions::HttpFilters::TapFilter::FilterConfigImpl::currentConfig() ()
+#0  0x000055555c42f184 in Envoy::Extensions::HttpFilters::TapFilter::FilterConfigImpl::getTapConfig() const ()
+#0  0x000055555c426134 in Envoy::Extensions::HttpFilters::TapFilter::HttpTapConfigImpl::createPerRequestTapper(envoy::extensions::filters::http::tap::v3::Tap const&amp;, unsigned long, Envoy::OptRef&lt;Envoy::Network::Connection const&gt;) ()
+#0  0x000055555c42d7a4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::HttpPerRequestTapperImpl(std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpTapConfig&gt;, envoy::extensions::filters::http::tap::v3::Tap const&amp;, unsigned long, Envoy::OptRef&lt;Envoy::Network::Connection const&gt;) ()
+#0  0x000055555c42da44 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapper::HttpPerRequestTapper() ()
+#0  0x000055555c42dbe4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl*&amp; std::__1::__compressed_pair&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl*, std::__1::default_delete&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl&gt; &gt;::__compressed_pair[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl*&amp;, std::__1::__value_init_tag&gt;(std::__1::__value_init_tag&amp;&amp;)
+    ()
+#0  0x000055555c42ddc4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl*&amp;&amp; std::__1::__compressed_pair&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapper*, std::__1::default_delete&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapper&gt; &gt;::__compressed_pair[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl*, std::__1::default_delete&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl&gt; &gt;(std::__1::default_delete&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl&gt;&amp;&amp;) ()
+#0  0x000055555c42efd4 in Envoy::Extensions::HttpFilters::TapFilter::Filter::setEncoderFilterCallbacks(Envoy::Http::StreamEncoderFilterCallbacks&amp;) ()
+#0  0x000055555c42e724 in Envoy::Extensions::HttpFilters::TapFilter::Filter::decodeHeaders(Envoy::Http::RequestHeaderMap&amp;, bool) ()
+#0  0x000055555c4263e4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::onRequestHeaders(Envoy::Http::RequestHeaderMap const&amp;) ()
+#0  0x000055555c426234 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::streamRequestHeaders() ()
+#0  0x000055555c42a334 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::makeTraceSegment() ()
+#0  0x000055555c4263a4 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*) ()
+#0  0x000055555c428db4 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0&amp;&amp; std::__1::__function::__value_func&lt;Envoy::Http::HeaderMap::Iterate (Envoy::Http::HeaderEntry const&amp;)&gt;::__value_func[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0, std::__1::allocator&lt;Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0&gt; &gt;(std::__1::allocator&lt;Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0&gt; const&amp;) ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c42e914 in Envoy::Extensions::HttpFilters::TapFilter::Filter::encodeHeaders(Envoy::Http::ResponseHeaderMap&amp;, bool) ()
+#0  0x000055555c427c74 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::onResponseHeaders(Envoy::Http::ResponseHeaderMap const&amp;) ()
+#0  0x000055555c427b04 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::streamResponseHeaders() ()
+#0  0x000055555c42a334 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::makeTraceSegment() ()
+#0  0x000055555c4263a4 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*) ()
+#0  0x000055555c428db4 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0&amp;&amp; std::__1::__function::__value_func&lt;Envoy::Http::HeaderMap::Iterate (Envoy::Http::HeaderEntry const&amp;)&gt;::__value_func[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0, std::__1::allocator&lt;Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0&gt; &gt;(std::__1::allocator&lt;Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0&gt; const&amp;) ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c429e24 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0::operator()(Envoy::Http::HeaderEntry const&amp;) const ()
+#0  0x000055555c42e9b4 in Envoy::Extensions::HttpFilters::TapFilter::Filter::encodeData(Envoy::Buffer::Instance&amp;, bool) ()
+#0  0x000055555c427df4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::onResponseBody(Envoy::Buffer::Instance const&amp;) ()
+#0  0x000055555c4269b4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::onBody(Envoy::Buffer::Instance const&amp;, std::__1::unique_ptr&lt;envoy::data::tap::v3::TraceWrapper, std::__1::default_delete&lt;envoy::data::tap::v3::TraceWrapper&gt; &gt;&amp;, unsigned int, envoy::data::tap::v3::Body* (envoy::data::tap::v3::HttpStreamedTraceSegment::*)(), envoy::data::tap::v3::HttpBufferedTrace_Message* (envoy::data::tap::v3::HttpBufferedTrace::*)(), bool) ()
+#0  0x000055555c42a334 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::makeTraceSegment() ()
+#0  0x000055555c42e9b4 in Envoy::Extensions::HttpFilters::TapFilter::Filter::encodeData(Envoy::Buffer::Instance&amp;, bool) ()
+#0  0x000055555c427df4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::onResponseBody(Envoy::Buffer::Instance const&amp;) ()
+#0  0x000055555c4269b4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::onBody(Envoy::Buffer::Instance const&amp;, std::__1::unique_ptr&lt;envoy::data::tap::v3::TraceWrapper, std::__1::default_delete&lt;envoy::data::tap::v3::TraceWrapper&gt; &gt;&amp;, unsigned int, envoy::data::tap::v3::Body* (envoy::data::tap::v3::HttpStreamedTraceSegment::*)(), envoy::data::tap::v3::HttpBufferedTrace_Message* (envoy::data::tap::v3::HttpBufferedTrace::*)(), bool) ()
+#0  0x000055555c42a334 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::makeTraceSegment() ()
+#0  0x000055555c42e9b4 in Envoy::Extensions::HttpFilters::TapFilter::Filter::encodeData(Envoy::Buffer::Instance&amp;, bool) ()
+#0  0x000055555c42eb04 in Envoy::Extensions::HttpFilters::TapFilter::Filter::log(Envoy::Formatter::HttpFormatterContext const&amp;, Envoy::StreamInfo::StreamInfo const&amp;) ()
+#0  0x000055555c428114 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::onDestroyLog() ()
+#0  0x000055555c42f1a4 in Envoy::Extensions::HttpFilters::TapFilter::FilterConfigImpl::stats() ()
+[New Thread 0x7fffe8ad16c0 (LWP 336946)]
+[2025-08-31T11:23:18.073Z] "GET / HTTP/1.1" 200 - 0 15986 427 243 "-" "curl/8.5.0" "266b6d40-7784-4a7c-919d-d8ae6401442a" "www.envoyproxy.io" "54.253.94.210:443"
+#0  0x000055555c42ee34 in Envoy::Extensions::HttpFilters::TapFilter::Filter::onDestroy() ()
+#0  0x000055555c42eda4 in Envoy::Extensions::HttpFilters::TapFilter::Filter::~Filter() ()
+#0  0x000055555c42f274 in Envoy::Extensions::HttpFilters::TapFilter::Filter::~Filter() ()
+#0  0x000055555c42aca4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::~HttpPerRequestTapperImpl() ()
+#0  0x000055555c42ac14 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::~HttpPerRequestTapperImpl() ()
+#0  0x000055555c42db14 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapper::~HttpPerRequestTapper() ()
+
+```
+&lt;/details&gt;
+
+&lt;details&gt;
+  &lt;summary&gt;Large header (segfault) call sequence&lt;/summary&gt;
+
+```
+#0  0x000055555c422214 in Envoy::Extensions::HttpFilters::TapFilter::TapFilterFactory::createFilterFactoryFromProtoTyped(envoy::extensions::filters::http::tap::v3::Tap const&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;, Envoy::Server::Configuration::FactoryContext&amp;)::$_0::operator()(Envoy::Http::FilterChainFactoryCallbacks&amp;) const ()
+#0  0x000055555c425174 in Envoy::Extensions::HttpFilters::TapFilter::Filter* std::__1::__construct_at[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::Filter, std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::FilterConfig&gt; const&amp;, Envoy::Extensions::HttpFilters::TapFilter::Filter*&gt;(Envoy::Extensions::HttpFilters::TapFilter::Filter*, std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::FilterConfig&gt; const&amp;) ()
+#0  0x000055555c4251a4 in Envoy::Extensions::HttpFilters::TapFilter::Filter* std::__1::construct_at[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::Filter, std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::FilterConfig&gt; const&amp;, Envoy::Extensions::HttpFilters::TapFilter::Filter*&gt;(Envoy::Extensions::HttpFilters::TapFilter::Filter*, std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::FilterConfig&gt; const&amp;) ()
+#0  0x000055555c425224 in Envoy::Extensions::HttpFilters::TapFilter::Filter::Filter(std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::FilterConfig&gt;) ()
+#0  0x000055555c42ee44 in Envoy::Extensions::HttpFilters::TapFilter::Filter::setDecoderFilterCallbacks(Envoy::Http::StreamDecoderFilterCallbacks&amp;) ()
+#0  0x000055555c42e4c4 in Envoy::Extensions::HttpFilters::TapFilter::FilterConfigImpl::currentConfig() ()
+#0  0x000055555c42f184 in Envoy::Extensions::HttpFilters::TapFilter::FilterConfigImpl::getTapConfig() const ()
+#0  0x000055555c426134 in Envoy::Extensions::HttpFilters::TapFilter::HttpTapConfigImpl::createPerRequestTapper(envoy::extensions::filters::http::tap::v3::Tap const&amp;, unsigned long, Envoy::OptRef&lt;Envoy::Network::Connection const&gt;) ()
+#0  0x000055555c42d7a4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::HttpPerRequestTapperImpl(std::__1::shared_ptr&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpTapConfig&gt;, envoy::extensions::filters::http::tap::v3::Tap const&amp;, unsigned long, Envoy::OptRef&lt;Envoy::Network::Connection const&gt;) ()
+#0  0x000055555c42da44 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapper::HttpPerRequestTapper() ()
+#0  0x000055555c42dbe4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl*&amp; std::__1::__compressed_pair&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl*, std::__1::default_delete&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl&gt; &gt;::__compressed_pair[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl*&amp;, std::__1::__value_init_tag&gt;(std::__1::__value_init_tag&amp;&amp;)
+    ()
+#0  0x000055555c42ddc4 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl*&amp;&amp; std::__1::__compressed_pair&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapper*, std::__1::default_delete&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapper&gt; &gt;::__compressed_pair[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl*, std::__1::default_delete&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl&gt; &gt;(std::__1::default_delete&lt;Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl&gt;&amp;&amp;) ()
+#0  0x000055555c42efd4 in Envoy::Extensions::HttpFilters::TapFilter::Filter::setEncoderFilterCallbacks(Envoy::Http::StreamEncoderFilterCallbacks&amp;) ()
+#0  0x000055555c42e914 in Envoy::Extensions::HttpFilters::TapFilter::Filter::encodeHeaders(Envoy::Http::ResponseHeaderMap&amp;, bool) ()
+#0  0x000055555c427c74 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::onResponseHeaders(Envoy::Http::ResponseHeaderMap const&amp;) ()
+#0  0x000055555c426234 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::streamRequestHeaders() ()
+#0  0x000055555c42a334 in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::makeTraceSegment() ()
+#0  0x000055555c4263a4 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*) ()
+#0  0x000055555c428db4 in Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0&amp;&amp; std::__1::__function::__value_func&lt;Envoy::Http::HeaderMap::Iterate (Envoy::Http::HeaderEntry const&amp;)&gt;::__value_func[abi:ne180100]&lt;Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0, std::__1::allocator&lt;Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0&gt; &gt;(std::__1::allocator&lt;Envoy::Extensions::HttpFilters::TapFilter::(anonymous namespace)::fillHeaderList(google::protobuf::RepeatedPtrField&lt;envoy::config::core::v3::HeaderValue&gt;*)::$_0&gt; const&amp;) ()
+
+Thread 16 "wrk:worker_4" received signal SIGSEGV, Segmentation fault.
+0x000055555c4262cd in Envoy::Extensions::HttpFilters::TapFilter::HttpPerRequestTapperImpl::streamRequestHeaders() ()
+
+```
+&lt;/details&gt;
+
+Risk Level: Low
+Testing: Unit test added. Also I manually tested locally - after fix
+Response code 431 returned for large header instead of segmentation
+fault.
+Docs Changes: N/A
+Release Notes: N/A
+Platform Specific Features: N/A
+Fixes #39063
+
+---------
+
+Signed-off-by: Vadym Sukolen &lt;sukolenvo@gmail.com&gt;
+Signed-off-by: Vadym S &lt;sukolenvo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2c994b</div>
+                                        <div class="message">zipkin: add custom headers support for collector requests (#40863)
+
+&lt;!--
+!!!ATTENTION!!!
+
+If you are fixing *any* crash or *any* potential security issue, *do
+not*
+open a pull request in this repo. Please report the issue via emailing
+envoy-security@googlegroups.com where the issue will be triaged
+appropriately.
+Thank you in advance for helping to keep Envoy secure.
+
+!!!ATTENTION!!!
+
+For an explanation of how to fill out the fields, please see the
+relevant section
+in
+[PULL_REQUESTS.md](https://github.com/envoyproxy/envoy/blob/main/PULL_REQUESTS.md)
+--&gt;
+
+Commit Message: Add support for custom HTTP headers in Zipkin collector
+requests
+
+This change introduces the collector_request_headers field to
+ZipkinConfig,
+allowing users to add custom headers to HTTP requests sent to the Zipkin
+collector. This enables authentication, authorization, and
+collector-specific
+routing capabilities.
+
+The feature includes:
+- New collector_request_headers field in ZipkinConfig proto
+- CollectorInfo struct updated to store header key-value pairs  
+- ReporterImpl modified to include headers in HTTP requests
+- Comprehensive test coverage for all components
+- Documentation updates in tracing overview and FAQ
+
+This is different from custom tags which add metadata to spans;
+this feature adds HTTP headers to collector API requests.
+
+Additional Description:
+Risk Level: Medium
+Testing: Unit tests, integration tests, configuration tests
+Docs Changes: Updated tracing architecture docs and FAQ
+Release Notes: Yes - added to current.yaml
+
+---------
+
+Signed-off-by: Prashanth Josyula &lt;prashanth.16@gmail.com&gt;
+Signed-off-by: Prashanth Josyula &lt;prashanth.chaitanya@salesforce.com&gt;
+Co-authored-by: Prashanth Josyula &lt;prashanth.chaitanya@salesforce.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
                         </div>
                     </section>
                 </div>
@@ -1360,7 +2254,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2025, 00:14:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Oct 2025, 00:14:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
